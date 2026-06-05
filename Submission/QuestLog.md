@@ -1,7 +1,7 @@
 # Project Submission: QuestLog
 ### 👥 Participant Details
-- **Participant Name:** Urvashi Srivastava & Utkarsh Mishra
-- **Team Name:** QuestLog
+- **Participant Name:** Urvashi Srivastava 
+- **Team Name:** SOLOCODEX
 ---
 ### 🚀 Project Information
 - **Project Title:** QuestLog - AI RPG Dungeon Master with Eternal Memory
