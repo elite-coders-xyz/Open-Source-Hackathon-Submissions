@@ -3,16 +3,15 @@
 ## Participant Details
 
 **Full Name:**  
-<!-- Write your full name -->
 Tanik Chopra
+
 **GitHub Username:**  
-<!-- Write your GitHub username -->
 Tanik-chopra
+
 **Team Name:**  
-<!-- Write your team name -->
 CYBERGUARD
+
 **College/University:**  
-<!-- Write your college/university name -->
 Chandigarh University
 ---
 
@@ -42,14 +41,16 @@ The goal of this project is to make cybersecurity knowledge accessible to everyo
 - CSS3
 - Git & GitHub
 - Vercel
+
+  
 **GitHub Repository Link:**  
-<!-- Add your public project repository link -->
 https://github.com/Tanik-chopra/CyberGuard-AI
+
 **Live Demo Link:**  
-<!-- Add deployed link if available -->
 https://cyber-guard-ai-two.vercel.app/
+
+
 **Presentation / Demo Video Link:**  
-<!-- Optional but recommended -->
 https://github.com/Tanik-chopra/CyberGuard-AI/blob/main/CyberGuard_AI_Enhanced.pptx
 ---
 
