@@ -3,32 +3,48 @@
 ## Participant Details
 
 **Full Name:**  
-<!-- Write your full name -->
+<Palak Kasaudhan>
 
 **GitHub Username:**  
-<!-- Write your GitHub username -->
+<!--https://github.com/palak720 -->
 
 **Team Name:**  
 <!-- Write your team name -->
 
 **College/University:**  
-<!-- Write your college/university name -->
+<!--Shoolini University-->
 
 ---
 
 ## Project Details
 
 **Project Title:**  
-<!-- Write your project/idea title -->
+<!-- carrer-pilot-platform -->
 
 **Project Description:**  
-<!-- Explain what your project does, what problem it solves, and why it matters -->
+<!-- career-pilot-platform is a React + TypeScript MVP built with Vite.
+
+Purpose: provide a unified feed for career opportunities
+Includes:
+internships, fellowships, hackathons, and open-source programs
+search and category filtering
+remote-only and bookmarked-only views
+bookmark persistence in the browser
+deadline reminders with toggle controls and an upcoming reminders panel
+It is designed as a lightweight frontend app for discovering and tracking relevant opportunities in one place. -->
 
 **Tech Stack Used:**  
-<!-- Example: Next.js, Node.js, MongoDB, Supabase, Tailwind CSS, Python, etc. -->
+<!-- Tech stack used
+Frontend framework: React
+Language: TypeScript
+Build tool: Vite
+Package manager: npm
+Project dependencies
+react
+react-dom. -->
 
 **GitHub Repository Link:**  
-<!-- Add your public project repository link -->
+<!-- https://github.com/palak720/career-pilot-platform-->
 
 **Live Demo Link:**  
 <!-- Add deployed link if available -->
