@@ -51,16 +51,16 @@ https://github.com/Harishganth-0704/AI-Based-Smart-Career-Guidance-Recruitment-P
 
 ## Memori Labs Sponsor Task
 
-- [ ] I have starred the Memori Labs GitHub repository  
+- [x] I have starred the Memori Labs GitHub repository  
   https://github.com/MemoriLabs/Memori
 
-- [ ] I have followed Memori Labs on LinkedIn  
+- [x] I have followed Memori Labs on LinkedIn  
   https://www.linkedin.com/company/memorilabs/
 
-- [ ] I have followed Memori Labs on X  
+- [x] I have followed Memori Labs on X  
   https://x.com/memorilab
 
-- [ ] I have checked Memori Labs social links  
+- [x] I have checked Memori Labs social links  
   https://linktr.ee/memorilabs
 
 ---
