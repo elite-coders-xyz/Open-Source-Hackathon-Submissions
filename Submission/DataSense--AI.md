@@ -3,38 +3,42 @@
 ## Participant Details
 
 **Full Name:**  
-<!-- Write your full name -->
+Mudit Khater 
 
 **GitHub Username:**  
-<!-- Write your GitHub username -->
+mudit108-code
 
 **Team Name:**  
-<!-- Write your team name -->
+UNIT - 108
 
 **College/University:**  
-<!-- Write your college/university name -->
+SRMIST, KTR
 
 ---
 
 ## Project Details
 
 **Project Title:**  
-<!-- Write your project/idea title -->
+DataSense--AI
 
 **Project Description:**  
-<!-- Explain what your project does, what problem it solves, and why it matters -->
+DataSense AI is a production-ready, lightweight web application that enables non-technical 
+users to interact with any CSV dataset using natural language. By combining Retrieval
+Augmented Generation (RAG) with OpenAI's language models and a FAISS vector index, the 
+platform delivers instant insights, visualizations, and data exploration — all within a single-file 
+Streamlit app optimized for free-tier API usage.
 
 **Tech Stack Used:**  
-<!-- Example: Next.js, Node.js, MongoDB, Supabase, Tailwind CSS, Python, etc. -->
+Python, RAG, Streamlit, OPENAI API Key, Plotly, FAISS
 
 **GitHub Repository Link:**  
-<!-- Add your public project repository link -->
+https://github.com/mudit108-code/DataSense--AI
 
 **Live Demo Link:**  
-<!-- Add deployed link if available -->
+https://datasense--ai.streamlit.app/
 
 **Presentation / Demo Video Link:**  
-<!-- Optional but recommended -->
+https://drive.google.com/file/d/1eP5TH2yMIMSIvJxTWfZmOAWHoMhbh4x3/view?usp=sharing
 
 ---
 
