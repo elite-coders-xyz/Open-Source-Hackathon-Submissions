@@ -69,10 +69,10 @@ https://github.com/Tanik-chopra/CyberGuard-AI/blob/main/CyberGuard_AI_Enhanced.p
 
 Please complete these before submitting:
 
-- [ ] I have starred the Memori Labs GitHub repository  
+- [x] I have starred the Memori Labs GitHub repository  
   https://github.com/MemoriLabs/Memori
 
-- [ ] I have followed Memori Labs on LinkedIn  
+- [x] I have followed Memori Labs on LinkedIn  
   https://www.linkedin.com/company/memorilabs/
 
 - [ ] I have followed Memori Labs on X  
@@ -85,7 +85,7 @@ Please complete these before submitting:
 
 ## ID Card Verification
 
-- [ ] I have generated my ID card from https://oshack.xyz
+- [x] I have generated my ID card from https://oshack.xyz
 - [ ] If my ID was not verified, I completed the mandatory verification/giveaway form and tried again
 
 ---
