@@ -15,6 +15,6 @@ The project features a gorgeous real-time glassmorphic dark-fantasy dashboard sh
 ---
 ### 🛠️ Tech Stack
 - **Backend Framework:** Python, FastAPI, Uvicorn
-- **AI Core:** OpenAI GPT-4o-mini API
+- **AI Core:** Google Gemini 1.5 Flash API (with OpenAI GPT-4o-mini fallback)
 - **Memory Augmentation:** Memori SDK
 - **Frontend UI:** HTML5, Vanilla ES6 JavaScript, Custom CSS3 styling (Glassmorphism & animated overlays)
