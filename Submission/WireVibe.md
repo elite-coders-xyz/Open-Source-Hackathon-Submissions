@@ -31,7 +31,7 @@ HTML5, CSS3 (Variables, Flexbox, 3D Transforms, Glassmorphism), Vanilla JavaScri
 https://github.com/Rafiaminhaj/WireVibe-
 
 **Live Demo Link:**  
-https://frontend-76xn5h1k3-rafiaminhajs-projects.vercel.app/
+https://rafiaminhaj.github.io/WireVibe-/
 
 **Presentation / Demo Video Link:**  
 N/A
