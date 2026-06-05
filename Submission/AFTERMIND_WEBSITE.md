@@ -25,7 +25,9 @@ AfterMind
 AfterMind is an AI-powered emotional storytelling and journaling platform that helps users express emotions, reflect on experiences, and engage in immersive cinematic interactions. The platform focuses on emotional wellbeing by combining journaling, AI reflection, and storytelling into a more engaging experience.
 
 **Tech Stack Used:**
+
 • React.js
+
 • Vite
 • Tailwind CSS
 • JavaScript
