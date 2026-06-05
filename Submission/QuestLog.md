@@ -6,7 +6,7 @@
 ### 🚀 Project Information
 - **Project Title:** QuestLog - AI RPG Dungeon Master with Eternal Memory
 - **GitHub Repository Link:** https://github.com/urvashi933/QuestLog
-- **Demo/Deployment Link (if available):** Local deployment only
+- **Demo/Deployment Link (if available):** https://questlog-aysb.onrender.com/
 ---
 ### 📝 Project Description
 QuestLog is an immersive, text-based dark-fantasy RPG showcase where players interact with an AI Dungeon Master (DM) that has persistent "eternal memory". 
