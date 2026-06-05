@@ -21,7 +21,7 @@ An AI-powered web tool that analyzes any public GitHub repository instantly. Pas
 
 **Live Demo Link:** (Render deploy ke baad add karna — abhi localhost)
 
-**Presentation / Demo Video Link:** (agar video banaya ho toh)
+**Presentation / Demo Video Link:** https://drive.google.com/file/d/1UKsh5QasJhmWNL2oKZNPN9L00DnNYY1T/view?usp=drivesdk
 
 ## Open Source Readiness
 - [x] My project is public on GitHub
