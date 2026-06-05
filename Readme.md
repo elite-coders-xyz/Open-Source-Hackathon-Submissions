@@ -1,83 +1,37 @@
-# Elite Coders Open Source Hackathon 2026 Submissions
+#  🌦 Weather App
 
-Welcome to the official submission repository for **Elite Coders Open Source Hackathon 2026**.
+A simple and elegant weather application built with JavaScript, HTML, and CSS. It fetches real-time weather data using the OpenWeatherMap API and displays it in a modern, responsive UI.
 
-Participants must submit their open source projects by creating a Pull Request in this repository.
+# ✨ Features
 
-## Important Dates
+🔍 Search weather by city name
 
-- **Project Building:** 1st June – 5th June
-- **Submission Window:** 5th June – 7th June
+🌡 Displays temperature in Celsius
 
-## How to Submit
-## How to Submit Your Project
+☁ Shows weather condition and icon
 
-1. Build and publish your open source project on GitHub.
+💧 Displays humidity percentage
 
-2. Ensure your repository is public and contains:
+⚠ Error handling for invalid city names or API issues
 
-   * A proper README.md
-   * Setup/Installation instructions
-   * Project description
-   * Screenshots or demo links (recommended)
+🎨 Modern glassmorphism-inspired UI with smooth animations
 
-3. Fork this repository to your GitHub account.
+#   🎨 UI Preview
 
-4. Navigate to the `submissions/` folder and copy the template file:
+Input field to enter city name
 
-   ```
-   submissions/PROJECT_NAME.md
-   ```
+Search button with hover effects
 
-5. Rename the copied file using your project name. For example:
+Weather card with city name, temperature, condition, humidity, and icon
 
-   ```
-   submissions/AgriGPT.md
-   ```
+Error message display for invalid inputs
 
-6. Fill in all the required project details inside the markdown file, including:
+#  🚀 Future Enhancements
 
-   * Participant Name
-   * Team Name
-   * Project Title
-   * Project Description
-   * Tech Stack
-   * GitHub Repository Link
-   * Demo/Deployment Link (if available)
+🌍 Add support for geolocation-based weather
 
-7. Commit your changes and push them to your forked repository.
+📅 Show 5-day forecast
 
-8. Create a Pull Request to this repository using the official Project Submission Template.
+🌙 Dark/Light theme toggle
 
-9. Carefully complete all required fields and checkboxes in the Pull Request before submitting.
-
-10. Wait for the review process. Our team will verify your submission and evaluate your project during the judging phase.
-
-⚠️ Incomplete submissions, private repositories, missing documentation, or incorrect project files may lead to disqualification.
-
-
-## ID Card Instructions
-
-Generate your participant ID card from:
-
-https://oshack.xyz
-
-Steps:
-1. Go to `oshack.xyz`
-2. Open the ID Card section
-3. Enter your GitHub username
-4. Add your team name
-5. Download your ID card
-
-If your ID is not verified, complete the mandatory giveaway/verification form first, then try generating your ID card again.
-
-## Memori Labs Sponsor Task
-
-Before submitting, please support Memori Labs:
-
-- GitHub: https://github.com/MemoriLabs/Memori
-- LinkedIn: https://www.linkedin.com/company/memorilabs/
-- X: https://x.com/memorilab
-- Social links: https://linktr.ee/memorilabs
-
-Memori Labs’ official site links to their X, LinkedIn, GitHub, YouTube, and Discord socials. Their student ambassador page also highlights their focus on student builders and campus communities.
+📱 Improve mobile responsiveness
