@@ -79,19 +79,3 @@ Please complete these before submitting:
 - [x] If my ID was not verified, I completed the mandatory verification/giveaway form and tried again
 
 ---
-
-## Additional Notes
-
-### 🚀 Project Overview: LitePing
-
-LitePing is an open-source, developer-first uptime and cron monitoring system. It replaces heavy, paid third-party tools with a lightweight, self-hosted alternative that runs on **under 120MB of RAM**—perfect for free-tier cloud environments.
-
-### 🏗️ Why It Matters (Architecture & Impact)
-* **Single-Process Concurrency:** Eliminates heavy workers (like Celery). The entire execution loop runs natively on the primary ASGI thread using **FastAPI lifespans** and `asyncio.gather()`.
-* **High-Throughput I/O:** Batches up to 100 concurrent URL checks every 30 seconds using non-blocking `httpx` routines without affecting user-facing API routes.
-* **Hybrid Telemetry Layer:** Writes instant status flags to serverless **Upstash Redis** and streams detailed millisecond latency logs to **PostgreSQL** using asynchronous SQLAlchemy mappings.
-
-### 📦 Submission Readiness
-* **Verified Codebase:** Includes a native, lightweight `unittest` suite covering authentication, CRUD operations, background workers, and health states.
-* **Infrastructure-as-Code:** Pre-configured with a `render.yaml` blueprint for one-click free-tier production deployments.
-* **Deeply Documented:** Supported by 5 modular architectural whitepapers inside the `docs/` folder mapping out data models and lifecycle pipelines.
