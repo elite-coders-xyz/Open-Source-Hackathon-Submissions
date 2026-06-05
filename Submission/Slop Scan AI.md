@@ -31,11 +31,12 @@ SlopScan AI
 
 **Tech Stack Used:**  
 
-● Frontend: **Next.js**, **React**, **JavaScript**, **HTML5**, **CSS3**  
-● APIs & Integration: **GitHub API**  
-● AI & NLP: **Natural Language Processing (NLP)**, **Custom Heuristic Scoring Engine**, **Review Quality Analysis**, **Slop Score Detection**  
-● Analytics & Visualization: **Data Visualization**, **Radar Charts**, **Engineering Quality Analytics**  
-● Deployment: **Vercel**  
+● Frontend/UI: **Next.js**, **React**, **HTML5**, **CSS3**
+● Backend/API Layer: **Next.js API Routes**, **Node.js**
+● APIs & Integration: **GitHub REST API**
+● AI & Analysis: **Natural Language Processing (NLP)**, **Custom Heuristic Scoring Engine**, **Slop Score Detection**
+● Data Visualization: **Radar Charts**, **Analytics Dashboard**
+● Deployment: **Vercel**
 
 **GitHub Repository Link:**  
 https://github.com/amit-sharma-ds/Slop-Scan-AI
