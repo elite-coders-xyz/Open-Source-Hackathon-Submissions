@@ -29,13 +29,21 @@ AfterMind is an AI-powered emotional storytelling and journaling platform that h
 • React.js
 
 • Vite
+
 • Tailwind CSS
+
 • JavaScript
+
 • TypeScript
+
 • Netlify
+
 • OpenAI API
+
 • Firebase
+
 • GitHub
+
 * AI-assisted development tools
 
   
