@@ -2,8 +2,11 @@
 
 ## Participant Details
 **Full Name:** Akanksha Kumari
+
 **GitHub Username:** Akanksha950
+
 **Team Name:** Solo
+
 **College/University:** Ranchi University
 
 ## Project Details
