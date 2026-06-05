@@ -44,12 +44,12 @@ https://drive.google.com/file/d/1eP5TH2yMIMSIvJxTWfZmOAWHoMhbh4x3/view?usp=shari
 
 ## Open Source Readiness
 
-- [YES] My project is public on GitHub
-- [YES] My repository has a proper README.md
-- [YES] I have added setup/installation instructions
-- [YES] I have added screenshots/demo where possible
-- [YES] I have added a license file
-- [YES] My project is original and built/updated during the hackathon period
+- [] My project is public on GitHub
+- [] My repository has a proper README.md
+- [] I have added setup/installation instructions
+- [] I have added screenshots/demo where possible
+- [] I have added a license file
+- [] My project is original and built/updated during the hackathon period
 
 ---
 
@@ -57,23 +57,23 @@ https://drive.google.com/file/d/1eP5TH2yMIMSIvJxTWfZmOAWHoMhbh4x3/view?usp=shari
 
 Please complete these before submitting:
 
-- [YES] I have starred the Memori Labs GitHub repository  
+- [] I have starred the Memori Labs GitHub repository  
   https://github.com/MemoriLabs/Memori
 
-- [YES] I have followed Memori Labs on LinkedIn  
+- [] I have followed Memori Labs on LinkedIn  
   https://www.linkedin.com/company/memorilabs/
 
-- [YES] I have followed Memori Labs on X  
+- [] I have followed Memori Labs on X  
   https://x.com/memorilab
 
-- [YES] I have checked Memori Labs social links  
+- [] I have checked Memori Labs social links  
   https://linktr.ee/memorilabs
 
 ---
 
 ## ID Card Verification
 
-- [YES] I have generated my ID card from https://oshack.xyz
-- [YES] If my ID was not verified, I completed the mandatory verification/giveaway form and tried again
+- [] I have generated my ID card from https://oshack.xyz
+- [] If my ID was not verified, I completed the mandatory verification/giveaway form and tried again
 
 ---
