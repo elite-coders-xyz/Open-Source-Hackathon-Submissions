@@ -32,11 +32,11 @@ An AI-powered web tool that analyzes any public GitHub repository instantly. Pas
 - [x] My project is original and built/updated during the hackathon period
 
 ## Memori Labs Sponsor Task
-- [ ] I have starred the Memori Labs GitHub repository https://github.com/MemoriLabs/Memori
-- [ ] I have followed Memori Labs on LinkedIn https://www.linkedin.com/company/memorilabs/
-- [ ] I have followed Memori Labs on X https://x.com/memorilab
-- [ ] I have checked Memori Labs social links https://linktr.ee/memorilabs
+- [x] I have starred the Memori Labs GitHub repository https://github.com/MemoriLabs/Memori
+- [x] I have followed Memori Labs on LinkedIn https://www.linkedin.com/company/memorilabs/
+- [x] I have followed Memori Labs on X https://x.com/memorilab
+- [x] I have checked Memori Labs social links https://linktr.ee/memorilabs
 
 ## ID Card Verification
-- [ ] I have generated my ID card from https://oshack.xyz
-- [ ] If my ID was not verified, I completed the mandatory verification/giveaway form and tried again
+- [x] I have generated my ID card from https://oshack.xyz
+- [x] If my ID was not verified, I completed the mandatory verification/giveaway form and tried again
