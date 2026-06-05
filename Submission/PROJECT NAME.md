@@ -1,16 +1,16 @@
 # Open Source Hackathon 2026 Project Submission
 ## Participant Details
-**Full Name:** Shreyan Biswas
-**GitHub Username:** beingshreyan
-**Team Name:** Team Imperium
-**College/University:** None
+**Full Name:** Shreyan Biswas <br>
+**GitHub Username:** beingshreyan <br>
+**Team Name:** Team Imperium <br>
+**College/University:** None <br>
 ## Project Details
-**Project Title:** ReconSight
-**Project Description:** ReconSight transforms standard command-line network scanning into a highly visual, cyberpunk-themed desktop application. It utilizes the python-nmap wrapper to execute live reconnaissance in the background, parses the raw data into structured metrics, and allows security researchers to export their findings instantly to JSON format.
-**Tech Stack Used:** Python, PyQt6, python-nmap, Nmap System Binary
-**GitHub Repository Link:** https://github.com/beingshreyan/ReconSight
-**Live Demo Link:** N/A (Desktop Application)
-**Presentation / Demo Video Link:** N/A
+**Project Title:** ReconSight <br>
+**Project Description:** ReconSight transforms standard command-line network scanning into a highly visual, cyberpunk-themed desktop application. It utilizes the python-nmap wrapper to execute live reconnaissance in the background, parses the raw data into structured metrics, and allows security researchers to export their findings instantly to JSON format.<br>
+**Tech Stack Used:** Python, PyQt6, python-nmap, Nmap System Binary<br>
+**GitHub Repository Link:** https://github.com/beingshreyan/ReconSight <br>
+**Live Demo Link:** N/A (Desktop Application)<br>
+**Presentation / Demo Video Link:** https://drive.google.com/file/d/1ew4o0NNJmApGITq5gMCQjf4BgcJLC05U/view?usp=drivesdk <br>
 ## Open Source Readiness
  * [x] My project is public on GitHub
  * [x] My repository has a proper README.md
