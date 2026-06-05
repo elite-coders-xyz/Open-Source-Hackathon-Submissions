@@ -4,38 +4,53 @@
 
 **Full Name:**  
 <!-- Write your full name -->
-
+Tanik Chopra
 **GitHub Username:**  
 <!-- Write your GitHub username -->
-
+Tanik-chopra
 **Team Name:**  
 <!-- Write your team name -->
-
+CYBERGUARD
 **College/University:**  
 <!-- Write your college/university name -->
-
+Chandigarh University
 ---
 
 ## Project Details
 
 **Project Title:**  
 <!-- Write your project/idea title -->
-
+CyberGuard-AI
 **Project Description:**  
 <!-- Explain what your project does, what problem it solves, and why it matters -->
+## Project Description
 
+CyberGuard AI is a cybersecurity awareness platform that helps users identify common online threats and improve their digital security. The project combines multiple security-focused tools into a single, easy-to-use web application.
+
+The platform includes a Password Strength Checker to help users create stronger passwords, a Phishing URL Detector to identify potentially malicious links, an AI Cyber Assistant that provides information about cybersecurity topics, and a Security Score feature that helps users evaluate their overall security awareness.
+
+With the increasing number of cyberattacks, many users are unaware of basic security practices and online threats. CyberGuard AI addresses this problem by providing simple, interactive tools that educate users and promote safer online behavior.
+
+The goal of this project is to make cybersecurity knowledge accessible to everyone and encourage users to adopt better security habits while using the internet.
 **Tech Stack Used:**  
-<!-- Example: Next.js, Node.js, MongoDB, Supabase, Tailwind CSS, Python, etc. -->
 
+- React.js
+- Vite
+- JavaScript
+- Tailwind CSS
+- HTML5
+- CSS3
+- Git & GitHub
+- Vercel
 **GitHub Repository Link:**  
 <!-- Add your public project repository link -->
-
+https://github.com/Tanik-chopra/CyberGuard-AI
 **Live Demo Link:**  
 <!-- Add deployed link if available -->
-
+https://cyber-guard-ai-two.vercel.app/
 **Presentation / Demo Video Link:**  
 <!-- Optional but recommended -->
-
+https://github.com/Tanik-chopra/CyberGuard-AI/blob/main/CyberGuard_AI_Enhanced.pptx
 ---
 
 ## Open Source Readiness
