@@ -3,35 +3,46 @@
 ## Participant Details
 
 **Full Name:**  
-<!-- Write your full name -->
+Suprita Naik
 
 **GitHub Username:**  
-<!-- Write your GitHub username -->
+Suprita736
 
 **Team Name:**  
-<!-- Write your team name -->
+Intellicraft
 
 **College/University:**  
-<!-- Write your college/university name -->
+Dayananda Sagar College of Engineering
 
 ---
 
 ## Project Details
 
 **Project Title:**  
-<!-- Write your project/idea title -->
+CredLensAI 
 
 **Project Description:**  
-<!-- Explain what your project does, what problem it solves, and why it matters -->
+CredLensAI is a Chrome Extension that performs narrative-based verification of YouTube Shorts. Instead of fact-checking isolated statements, it analyzes the overall narrative, retrieves evidence from trusted sources, and generates evidence-based assessments.
 
 **Tech Stack Used:**  
-<!-- Example: Next.js, Node.js, MongoDB, Supabase, Tailwind CSS, Python, etc. -->
+
+- React
+- TypeScript
+- Vite
+- Chrome Extension Manifest V3
+- Supabase
+- PostgreSQL
+- OpenRouter
+- Claude 3.5 Haiku
+- PubMed API
+- Google Fact Check API
+- Google News RSS
 
 **GitHub Repository Link:**  
-<!-- Add your public project repository link -->
+[Repository Link](https://github.com/Suprita736/CredLens-NarrativeAI.git)
 
 **Live Demo Link:**  
-<!-- Add deployed link if available -->
+[CreadLensAI demo video](https://youtu.be/skkCTtPmAdw)
 
 **Presentation / Demo Video Link:**  
 <!-- Optional but recommended -->
