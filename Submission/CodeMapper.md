@@ -9,7 +9,7 @@ DEVASANI VISHAL
 vishaldevasani
 
 **Team Name:**  
-Innov
+Innov(solo)
 
 **College/University:**  
 SREENIDHI INSTITUTE OF SCIENCE AND TECHNOLOGY
