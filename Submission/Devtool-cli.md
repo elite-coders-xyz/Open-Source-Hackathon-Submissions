@@ -35,7 +35,7 @@ https://github.com/GhanshyamJha05/devtool-cli
 https://ghanshyamjha05.github.io/devtool-cli/
 
 **Presentation / Demo Video Link:**  
-<!-- Optional but recommended -->
+https://www.linkedin.com/feed/update/urn:li:activity:7468895513870880768/
 
 ---
 
