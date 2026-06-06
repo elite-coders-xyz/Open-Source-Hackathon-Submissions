@@ -57,8 +57,10 @@ Tooling
 **GitHub Repository Link:**  
 https://github.com/shouryaawr/Can-My-PC-Host-This-
 
-**Live Demo Link:**  
-<!-- Add deployed link if available -->
+**Live Demo Link:** https://can-my-pc-host-this-1.onrender.com
+> ⚠️ **Important Assessment Note:** > - Due to cloud sandbox restrictions on Render's hosted environment, live hardware browser API fetching may be limited. Please use the **"Custom"** hardware override button on the dashboard to manually input specs during your evaluation.
+> - If the live environment is spinning up or unavailable during your assessment window, I apologize please refer to the fully comprehensive video demonstration linked below.
+
 
 **Presentation / Demo Video Link:**  
 https://drive.google.com/drive/folders/1mLkKTOBqc9qBgUMyYKkRF4SHZFZGGYZb?usp=sharing
