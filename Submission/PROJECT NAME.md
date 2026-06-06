@@ -63,7 +63,7 @@ Please complete these before submitting:
 - [✓] I have followed Memori Labs on LinkedIn  
   https://www.linkedin.com/company/memorilabs/
 
-- [✓] I have followed Memori Labs on X  
+- [x] I have followed Memori Labs on X  
   https://x.com/memorilab
 
 - [✓] I have checked Memori Labs social links  
