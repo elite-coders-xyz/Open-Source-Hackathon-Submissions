@@ -3,38 +3,39 @@
 ## Participant Details
 
 **Full Name:**  
-<!-- Write your full name -->
+DEVASANI VISHAL
 
 **GitHub Username:**  
-<!-- Write your GitHub username -->
+vishaldevasani
 
 **Team Name:**  
-<!-- Write your team name -->
+Innov
 
 **College/University:**  
-<!-- Write your college/university name -->
+SREENIDHI INSTITUTE OF SCIENCE AND TECHNOLOGY
 
 ---
 
 ## Project Details
 
 **Project Title:**  
-<!-- Write your project/idea title -->
+codemapper
 
 **Project Description:**  
-<!-- Explain what your project does, what problem it solves, and why it matters -->
+CodeMapper is an AI-powered GitHub repository visualizer that helps developers understand any codebase instantly. Paste a public GitHub URL and get an interactive D3.js force-directed dependency graph showing how files import each other, sized by popularity.Click any node to see file details, double-click for an AI-generated explanation powered by Groq (free LLM) covering the file's purpose, exports, key functions, and complexity. A semantic search bar lets you ask natural language questions like "where is authentication handled?" and returns ranked, reasoned file results. The sidebar offers both a stable folder tree view and a sortable table view. Features light/dark mode, language filters, orphan file detection, and in-memory caching — all running 100% free with no paid APIs required.
+
 
 **Tech Stack Used:**  
-<!-- Example: Next.js, Node.js, MongoDB, Supabase, Tailwind CSS, Python, etc. -->
+React 18, Vite, Tailwind CSS, D3.js v7, Node.js, Express.js, Groq API (llama-3.3-70b), GitHub REST API v3, Ollama (local AI fallback)
 
 **GitHub Repository Link:**  
-<!-- Add your public project repository link -->
+ https://github.com/vishaldevasani/codemapper.git
 
 **Live Demo Link:**  
-<!-- Add deployed link if available -->
+https://codemapper.vercel.app/
 
 **Presentation / Demo Video Link:**  
-<!-- Optional but recommended -->
+https://drive.google.com/file/d/1nxkkR-i_zLUQkrBg5iUWIAQJwE_NS23u/view?usp=drive_link
 
 ---
 
