@@ -46,7 +46,7 @@ https://github.com/anshul23102/sentinel
 Runs locally - setup takes under 5 minutes (see README)
 
 **Presentation / Demo Video Link:**  
-https://github.com/anshul23102/sentinel#screenshots
+https://drive.google.com/file/d/1igZTUGMY5qSlEjaJUL4x5zC2ep2UpvPA/view?usp=sharing
 
 ---
 
