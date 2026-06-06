@@ -3,35 +3,44 @@
 ## Participant Details
 
 **Full Name:**  
-<!-- Write your full name -->
+INEZA Fidele
 
 **GitHub Username:**  
-<!-- Write your GitHub username -->
+INEZA-24
 
 **Team Name:**  
-<!-- Write your team name -->
+NEXEL
 
 **College/University:**  
-<!-- Write your college/university name -->
+COLLEGE SAINT ANDRE
 
 ---
 
 ## Project Details
 
 **Project Title:**  
-<!-- Write your project/idea title -->
+RepoPilot
 
 **Project Description:**  
-<!-- Explain what your project does, what problem it solves, and why it matters -->
+RepoPilot is an AI-powered Open Source Contributor Onboarding Platform. It helps developers understand, navigate, and contribute to GitHub repositories faster by turning a repository URL into a focused contributor dashboard.
+
+## Problem Statement
+
+Joining an open source project often takes days of reading before a developer knows where to begin. Important contributor signals are scattered across READMEs, issues, language files, repository metadata, and maintainer documentation.
+
+## Solution
+
+RepoPilot acts like GPS for open source. In Phase 1, a contributor pastes a public GitHub repository URL and receives a polished dashboard with the core context needed to start exploring productively.
+
 
 **Tech Stack Used:**  
-<!-- Example: Next.js, Node.js, MongoDB, Supabase, Tailwind CSS, Python, etc. -->
+Next.js, React, TypeScript, GitHub REST API, Vitest, Vercel
 
 **GitHub Repository Link:**  
-<!-- Add your public project repository link -->
+https://github.com/INEZA-24/RepoPilot
 
 **Live Demo Link:**  
-<!-- Add deployed link if available -->
+https://repo-pilotv1.vercel.app/
 
 **Presentation / Demo Video Link:**  
 <!-- Optional but recommended -->
@@ -40,12 +49,12 @@
 
 ## Open Source Readiness
 
-- [ ] My project is public on GitHub
-- [ ] My repository has a proper README.md
-- [ ] I have added setup/installation instructions
-- [ ] I have added screenshots/demo where possible
-- [ ] I have added a license file
-- [ ] My project is original and built/updated during the hackathon period
+- [YES ] My project is public on GitHub
+- [YES ] My repository has a proper README.md
+- [ YES] I have added setup/installation instructions
+- [ YSES] I have added screenshots/demo where possible
+- [ YES] I have added a license file
+- [ YES] My project is original and built/updated during the hackathon period
 
 ---
 
@@ -53,7 +62,7 @@
 
 Please complete these before submitting:
 
-- [ ] I have starred the Memori Labs GitHub repository  
+- [ YES] I have starred the Memori Labs GitHub repository  
   https://github.com/MemoriLabs/Memori
 
 - [ ] I have followed Memori Labs on LinkedIn  
@@ -69,7 +78,7 @@ Please complete these before submitting:
 
 ## ID Card Verification
 
-- [ ] I have generated my ID card from https://oshack.xyz
+- [ YES] I have generated my ID card from https://oshack.xyz
 - [ ] If my ID was not verified, I completed the mandatory verification/giveaway form and tried again
 
 ---
