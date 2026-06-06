@@ -30,7 +30,6 @@ HIREVIUM redefines hiring intelligence by transforming technical vetting into a 
 Traditional technical screening is broken, leading to wasted engineering sprint hours and candidates struggling through rigid questionnaires. HIREVIUM is a state-of-the-art AI Hiring Intelligence Operating System designed to automate early screening, eliminate resume padding deception through adaptive Q&A, and provide recruiters with multi-persona engineering intelligence.
 
 Key Features and Vetting Pillars :-
-
 1. Adaptive Technical Interview Vetting: Difficulty shifts dynamically based on candidate performance.
  - Strong Answers (Score >= 85): Escalate to architectural questions.
  - Average Answers (60 <= Score < 85): Pivot sideways to cover parallel concepts.
@@ -91,7 +90,3 @@ Please complete these before submitting:
 - [✅] If my ID was not verified, I completed the mandatory verification/giveaway form and tried again
 
 ---
-
-## Additional Notes
-
-HIREVIUM features high engineering complexity and seamless executive decision telemetry.
