@@ -48,19 +48,15 @@ https://maintaineros-ai.onrender.com
 ## 📸 Screenshots
 
 ### 🔹 Landing Page
-
 ![Landing](https://raw.githubusercontent.com/imohammedyasin05/maintaineros-ai/main/screenshots/LANDING.png)
 
-### 🔹 Dashboard
-
+### 🔹 Live Dashboard
 ![Dashboard](https://raw.githubusercontent.com/imohammedyasin05/maintaineros-ai/main/screenshots/DASHBOARD.png)
 
-### 🔹 Issue Auto-Triage
-
+### 🔹 GitHub Issue Auto-Triage (REAL)
 ![Issue](https://raw.githubusercontent.com/imohammedyasin05/maintaineros-ai/main/screenshots/ISSUE.png)
 
-### 🔹 Metrics
-
+### 🔹 Metrics View
 ![Metrics](https://raw.githubusercontent.com/imohammedyasin05/maintaineros-ai/main/screenshots/METRIC.png)
 
 ---
