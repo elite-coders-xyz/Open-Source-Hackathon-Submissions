@@ -19,37 +19,31 @@ Indraprastha Institute of Information Technology, Delhi (IIIT Delhi)
 ## Project Details
 
 **Project Title:**  
-Neon Launchpad BYODB Provisioning Provider for Memori
+Sentinel - AI-Powered API Failure Detection Platform
 
 **Project Description:**  
-Added Neon Launchpad as a new database provisioning provider for the Memori Python SDK (an open-source agent-native memory infrastructure library with 10,000+ downloads). The contribution enables zero-configuration, disposable serverless PostgreSQL databases for development workflows with a single command.
+Sentinel detects silent API failures, latency spikes, and cascading outages before users do, then explains exactly what broke, why, and how to fix it.
 
-The provider calls the Neon Launchpad API to create an ephemeral database by UUID, retrieves the PostgreSQL connection string, and returns a ProvisionResult that routes through Memori's existing PostgreSQL storage path, requiring no new storage driver. Includes URL-encoded referrer handling, claim URL, and a 3-day expiry consistent with Neon's database TTL.
+It runs Z-score anomaly detection on 60-second sliding windows per endpoint, catches latency spikes and error surges in real time, and uses Llama 3.3 70B via Groq to produce a root cause chain with confidence scores the moment an anomaly is detected (e.g., Auth failing -> Cart errors -> Checkout down). A canvas-based service dependency graph shows live traffic between microservices and visually propagates cascade failures.
 
-This allows developers to spin up a fully working Postgres-backed Memori instance in seconds:
-
-```bash
-python -m memori provision neon-launchpad
-```
-
-or in Python:
-
-```python
-from memori import Memori
-mem = Memori.provision(provider="neon-launchpad", build=True)
-```
+Key features:
+- Real-time WebSocket dashboard with health scoring across 8 monitored services
+- AI root cause analysis with streaming chat powered by Groq
+- Failure scenario simulator (DB slowdown, memory leak, rate limit cascade, network partition)
+- Health heatmap with 40 historical snapshots per endpoint
+- Predictive SLA breach alerts using linear regression
 
 **Tech Stack Used:**  
-Python, pytest, ruff, requests, uv
+Python 3.11, FastAPI, aiosqlite, WebSockets, React 18, Vite, Recharts, Canvas API, SQLite, Groq Cloud, Llama 3.3 70B
 
 **GitHub Repository Link:**  
-https://github.com/anshul23102/Memori
+https://github.com/anshul23102/sentinel
 
 **Live Demo Link:**  
-https://github.com/MemoriLabs/Memori/pull/576
+N/A (runs locally - setup takes under 5 minutes)
 
 **Presentation / Demo Video Link:**  
-https://github.com/MemoriLabs/Memori/pull/576
+N/A
 
 ---
 
