@@ -3,38 +3,48 @@
 ## Participant Details
 
 **Full Name:**  
-<!-- Write your full name -->
+RICHA KUMARI
 
 **GitHub Username:**  
-<!-- Write your GitHub username -->
+richagkumari567-oss
 
 **Team Name:**  
-<!-- Write your team name -->
+individual(RICHA KUMARI)
 
 **College/University:**  
-<!-- Write your college/university name -->
+THE NATIONAL INSTITUTE OF ENGINEERING,MYSURU
 
 ---
 
 ## Project Details
 
 **Project Title:**  
-<!-- Write your project/idea title -->
+MOVIE RECOMMENDATION SYSTEM
 
 **Project Description:**  
-<!-- Explain what your project does, what problem it solves, and why it matters -->
+The Movie Recommendation System is a Python-based application that helps users discover movies based on their interests and preferences. Users can rate movies, receive personalized recommendations, view top-rated movies, and find similar movies using NumPy-based similarity calculations.
+
+The project solves the problem of choosing what to watch by providing intelligent recommendations based on user ratings and genre preferences. It demonstrates the use of Python data structures, algorithms, and NumPy for data analysis and recommendation logic.
+
+This project is useful for learning recommendation system concepts and showcases practical applications of Python programming, data handling, and user interaction.
 
 **Tech Stack Used:**  
-<!-- Example: Next.js, Node.js, MongoDB, Supabase, Tailwind CSS, Python, etc. -->
+* Python
+* NumPy
+* Lists
+* Dictionaries
+* String Processing
+* Command Line Interface (CLI)
+
 
 **GitHub Repository Link:**  
-<!-- Add your public project repository link -->
+https://github.com/richagkumari567-oss/movie-recommendation-system
 
 **Live Demo Link:**  
-<!-- Add deployed link if available -->
+Not Available
 
 **Presentation / Demo Video Link:**  
-<!-- Optional but recommended -->
+Not Available
 
 ---
 
