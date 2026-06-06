@@ -9,7 +9,7 @@ Anshul Jain
 anshul23102
 
 **Team Name:**  
-Individual
+BLOODWYRM
 
 **College/University:**  
 Indraprastha Institute of Information Technology, Delhi (IIIT Delhi)
