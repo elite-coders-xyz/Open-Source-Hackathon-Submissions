@@ -4,6 +4,7 @@
 
 **Full Name:**
 SHAIK MOHAMMED YASIN
+
 **GitHub Username:**
 imohammedyasin05
 
@@ -40,12 +41,7 @@ https://github.com/imohammedyasin05/maintaineros-ai
 ---
 
 **Live Demo Link:**
-https://maintaineros-ai.onrender.com/app.html
-
----
-
-**Presentation / Demo Video Link:**
-(Optional — leave empty or add if you have one)
+https://maintaineros-ai.onrender.com
 
 ---
 
