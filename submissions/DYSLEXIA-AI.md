@@ -66,12 +66,12 @@ dyslexia-ai-avau.vercel.app
 
 ## Open Source Readiness
 
-- [ ] My project is public on GitHub
-- [ ] My repository has a proper README.md
-- [ ] I have added setup/installation instructions
-- [ ] I have added screenshots/demo where possible
-- [ ] I have added a license file
-- [ ] My project is original and built/updated during the hackathon period
+- [Y] My project is public on GitHub
+- [Y] My repository has a proper README.md
+- [Y] I have added setup/installation instructions
+- [Y] I have added screenshots/demo where possible
+- [Y] I have added a license file
+- [Y] My project is original and built/updated during the hackathon period
 
 ---
 
@@ -79,23 +79,23 @@ dyslexia-ai-avau.vercel.app
 
 Please complete these before submitting:
 
-- [ ] I have starred the Memori Labs GitHub repository  
+- [Y] I have starred the Memori Labs GitHub repository  
   https://github.com/MemoriLabs/Memori
 
-- [ ] I have followed Memori Labs on LinkedIn  
+- [Y] I have followed Memori Labs on LinkedIn  
   https://www.linkedin.com/company/memorilabs/
 
-- [ ] I have followed Memori Labs on X  
+- [Y] I have followed Memori Labs on X  
   https://x.com/memorilab
 
-- [ ] I have checked Memori Labs social links  
+- [Y] I have checked Memori Labs social links  
   https://linktr.ee/memorilabs
 
 ---
 
 ## ID Card Verification
 
-- [ ] I have generated my ID card from https://oshack.xyz
-- [ ] If my ID was not verified, I completed the mandatory verification/giveaway form and tried again
+- [Y] I have generated my ID card from https://oshack.xyz
+- [Y] If my ID was not verified, I completed the mandatory verification/giveaway form and tried again
 
 ---
