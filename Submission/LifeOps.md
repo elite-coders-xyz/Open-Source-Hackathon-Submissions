@@ -3,7 +3,7 @@
 ## Participant Details
 
 **Full Name:**  
-Hasini thota
+Hasini Thota Naidu
 
 **GitHub Username:**  
 someonekilledhasu
