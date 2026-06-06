@@ -1,0 +1,48 @@
+# Open Source Hackathon 2026 Project Submission
+
+## Participant Details
+
+**Full Name:**
+Dnyaneshwar Gumalwad
+
+**GitHub Username:**
+gumalwaddnyaneshwar
+
+**Team Name:**
+Elite Techies
+
+**College/University:**
+JSPM University, Pune, Maharashtra
+
+---
+
+## Project Details
+
+**Project Title:**
+ApplyMate AI — AI-Powered Job Application Assistant
+
+**Project Description:**
+ApplyMate AI is an open-source, end-to-end AI job application assistant. Users upload their resume (PDF) and paste a job description to instantly get: ATS compatibility score, AI-powered keyword gap analysis with priority ranking, tailored cover letter, personalized skill gap roadmap with free learning resources, and role-specific interview questions with model answers. All features are completely free, no account needed, no API key required — powered by Groq AI (Llama 3.3 70B) on the backend.
+
+**Tech Stack Used:**
+Python, Streamlit, Groq AI (Llama 3.3 70B), Google Gemini 2.0 Flash, PyPDF2, pdfplumber, pandas, scikit-learn, NLTK
+
+---
+
+## Project Links
+
+**GitHub Repository:**
+https://github.com/gumalwaddnyaneshwar/applymate-ai
+
+**Live Demo:**
+https://applymate-ai.streamlit.app
+
+---
+
+## Additional Info
+
+**Research Paper:**
+https://ijarsct.co.in/Paper35343.pdf
+
+**What problem does it solve:**
+Every existing job application tool stops halfway — Jobscan gives ATS score but no cover letter, no interview prep, no skill roadmap. ApplyMate AI completes the entire application pipeline in one free, open-source tool with no API key needed by users(Sometimes needed when Quota limit exceeds).
