@@ -3,49 +3,49 @@
 ## Participant Details
 
 **Full Name:**  
-<!-- Write your full name -->
+Tasleem Begum
 
 **GitHub Username:**  
-<!-- Write your GitHub username -->
+Tasleem-glitch
 
 **Team Name:**  
-<!-- Write your team name -->
 
+Solo Participant
 **College/University:**  
-<!-- Write your college/university name -->
+Osmania University 
 
 ---
 
 ## Project Details
 
 **Project Title:**  
-<!-- Write your project/idea title -->
+Student Resource Hub 2026
 
 **Project Description:**  
-<!-- Explain what your project does, what problem it solves, and why it matters -->
+Student Resource Hub 2026 is an open-source repository that provides curated learning resources for students in coding, finance, interview preparation, scholarships, and career growth.
 
 **Tech Stack Used:**  
-<!-- Example: Next.js, Node.js, MongoDB, Supabase, Tailwind CSS, Python, etc. -->
+Markdown, GitHub
 
 **GitHub Repository Link:**  
-<!-- Add your public project repository link -->
+https://github.com/Tasleem-glitch/student-resource-hub-2026
 
 **Live Demo Link:**  
-<!-- Add deployed link if available -->
+N/A
 
-**Presentation / Demo Video Link:**  
-<!-- Optional but recommended -->
+**Presentation / Demo Video Link:** 
+N/A
 
 ---
 
 ## Open Source Readiness
 
-- [ ] My project is public on GitHub
-- [ ] My repository has a proper README.md
+- [x] My project is public on GitHub
+- [x] My repository has a proper README.md
 - [ ] I have added setup/installation instructions
 - [ ] I have added screenshots/demo where possible
 - [ ] I have added a license file
-- [ ] My project is original and built/updated during the hackathon period
+- [x] My project is original and built/updated during the hackathon period
 
 ---
 
