@@ -19,31 +19,34 @@ Indraprastha Institute of Information Technology, Delhi (IIIT Delhi)
 ## Project Details
 
 **Project Title:**  
-Sentinel - AI-Powered API Failure Detection Platform
+Sentinel - API Failure Detection Platform
 
 **Project Description:**  
-Sentinel detects silent API failures, latency spikes, and cascading outages before users do, then explains exactly what broke, why, and how to fix it.
+Modern APIs fail in silence. A database connection pool exhausts itself at 2 AM. A memory leak slowly degrades your search service for 40 minutes before anyone notices. By the time a user reports it, revenue is already gone.
 
-It runs Z-score anomaly detection on 60-second sliding windows per endpoint, catches latency spikes and error surges in real time, and uses Llama 3.3 70B via Groq to produce a root cause chain with confidence scores the moment an anomaly is detected (e.g., Auth failing -> Cart errors -> Checkout down). A canvas-based service dependency graph shows live traffic between microservices and visually propagates cascade failures.
+Sentinel watches every endpoint every second. The moment something breaks, it tells you exactly what broke, why it broke, and how to fix it.
 
-Key features:
+It runs Z-score anomaly detection on 60-second sliding windows per endpoint and uses Llama 3.3 70B via Groq to produce a full root cause chain with confidence scores (e.g. Auth failing -> Cart errors -> Checkout down). A canvas-based service dependency graph shows live traffic between microservices and visually propagates cascade failures in real time.
+
+Key capabilities:
 - Real-time WebSocket dashboard with health scoring across 8 monitored services
-- AI root cause analysis with streaming chat powered by Groq
+- Root cause analysis with confidence-scored failure chains
+- Streaming chat: ask anything about your system in plain English
 - Failure scenario simulator (DB slowdown, memory leak, rate limit cascade, network partition)
 - Health heatmap with 40 historical snapshots per endpoint
-- Predictive SLA breach alerts using linear regression
+- Predictive SLA breach alerts via linear regression
 
 **Tech Stack Used:**  
-Python 3.11, FastAPI, aiosqlite, WebSockets, React 18, Vite, Recharts, Canvas API, SQLite, Groq Cloud, Llama 3.3 70B
+Python 3.11, FastAPI, aiosqlite, WebSockets, SSE, React 18, Vite, Recharts, Canvas API, SQLite (WAL mode), Groq Cloud, Llama 3.3 70B
 
 **GitHub Repository Link:**  
 https://github.com/anshul23102/sentinel
 
 **Live Demo Link:**  
-N/A (runs locally - setup takes under 5 minutes)
+Runs locally - setup takes under 5 minutes (see README)
 
 **Presentation / Demo Video Link:**  
-N/A
+https://github.com/anshul23102/sentinel#screenshots
 
 ---
 
