@@ -28,7 +28,7 @@ CampusCompass Pro is an open-source web platform that helps students discover an
 HTML, CSS, JavaScript, JSON
 
 **GitHub Repository Link:**
-https://github.com/zeeshanalisk/Ren
+https://github.com/zeeshanalisk/CampusCompass-Pro
 
 **Live Demo Link:**
 Not deployed
