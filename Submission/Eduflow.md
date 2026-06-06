@@ -2,17 +2,18 @@
 
 ## Participant Details
 
-**Full Name:**  
+**Full Name:**
 Parth Mahesh Wakodikar
 
-**GitHub Username:**  
-
+**GitHub Username:**
 parthwebde12
-**Team Name:**  
+
+**Team Name:**
 Team Rogers
 
-**College/University:**  
+**College/University:**
 Ajeenkya Dy Patil School of Engineering
+
 ---
 
 ## Project Details
@@ -30,7 +31,7 @@ React, Vite, Tailwind CSS v4, Node.js, Express, MongoDB, Mongoose, JWT, Cloudina
 https://github.com/Parthwebde12/EduFlow
 
 **Live Demo Link:**
---
+https://edu-flow-xi-five.vercel.app
 
 **Presentation / Demo Video Link:**
 https://youtu.be/_v9urtP6dFk
@@ -70,5 +71,3 @@ Please complete these before submitting:
 
 - [x] I have generated my ID card from https://oshack.xyz
 - [x] If my ID was not verified, I completed the mandatory verification/giveaway form and tried again
-
----
