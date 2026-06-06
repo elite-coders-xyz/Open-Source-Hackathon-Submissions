@@ -61,6 +61,25 @@ https://maintaineros-ai.onrender.com
 
 ---
 
+## 🔍 How to Test (Important)
+
+Use this repository to test the system:
+
+👉 https://github.com/imohammedyasin05/RESUMESMART
+
+Steps:
+1. Create a new GitHub issue
+2. Wait a few seconds
+3. MaintainerOS will:
+   - Analyze using AI
+   - Detect duplicates
+   - Apply labels
+   - Post comments
+4. View results in dashboard:
+   https://maintaineros-ai.onrender.com/app.html
+
+---
+
 ## Open Source Readiness
 
 * [x] My project is public on GitHub
