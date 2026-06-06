@@ -3,35 +3,52 @@
 ## Participant Details
 
 **Full Name:**  
-<!-- Write your full name -->
+Pooja Sree Kalepu
 
 **GitHub Username:**  
-<!-- Write your GitHub username -->
+Poojasreekalepu
 
 **Team Name:**  
-<!-- Write your team name -->
+LOGICLEGEND
 
 **College/University:**  
-<!-- Write your college/university name -->
+VIT Bhopal University
 
 ---
 
 ## Project Details
 
 **Project Title:**  
-<!-- Write your project/idea title -->
+AI Interview Coach
 
 **Project Description:**  
-<!-- Explain what your project does, what problem it solves, and why it matters -->
+AI Interview Coach is an AI-powered interview preparation platform that generates company-specific interview questions using Google Gemini AI. It evaluates candidate answers, provides detailed feedback, and tracks performance through an interview history and dashboard. The platform helps students and job seekers improve their interview skills with personalized practice.
+
 
 **Tech Stack Used:**  
-<!-- Example: Next.js, Node.js, MongoDB, Supabase, Tailwind CSS, Python, etc. -->
+**Frontend:**
+* Streamlit
+**Backend:**
+* Python
+**Artificial Intelligence:**
+* Google Gemini 2.5 Flash API
+**Data Storage:**
+* CSV (Interview History Tracking)
+**Libraries:**
+* streamlit
+* google-generativeai
+* pandas
+* re (Regular Expressions)
+* os
+**Version Control:**
+* GitHub
+
 
 **GitHub Repository Link:**  
-<!-- Add your public project repository link -->
+https://github.com/Poojasreekalepu/AI-INTERVIEW-COACH
 
 **Live Demo Link:**  
-<!-- Add deployed link if available -->
+https://ai-interview-coach-nqep6fplecq7ybndtbtuvb.streamlit.app/
 
 **Presentation / Demo Video Link:**  
 <!-- Optional but recommended -->
@@ -40,12 +57,12 @@
 
 ## Open Source Readiness
 
-- [ ] My project is public on GitHub
-- [ ] My repository has a proper README.md
-- [ ] I have added setup/installation instructions
-- [ ] I have added screenshots/demo where possible
-- [ ] I have added a license file
-- [ ] My project is original and built/updated during the hackathon period
+- [Yes ] My project is public on GitHub
+- [Yes ] My repository has a proper README.md
+- [YES ] I have added setup/installation instructions
+- [YES ] I have added screenshots/demo where possible
+- [YES] I have added a license file
+- [YES ] My project is original and built/updated during the hackathon period
 
 ---
 
@@ -53,23 +70,23 @@
 
 Please complete these before submitting:
 
-- [ ] I have starred the Memori Labs GitHub repository  
+- [YES ] I have starred the Memori Labs GitHub repository  
   https://github.com/MemoriLabs/Memori
 
-- [ ] I have followed Memori Labs on LinkedIn  
+- [YES ] I have followed Memori Labs on LinkedIn  
   https://www.linkedin.com/company/memorilabs/
 
-- [ ] I have followed Memori Labs on X  
+- [YES] I have followed Memori Labs on X  
   https://x.com/memorilab
 
-- [ ] I have checked Memori Labs social links  
+- [YES] I have checked Memori Labs social links  
   https://linktr.ee/memorilabs
 
 ---
 
 ## ID Card Verification
 
-- [ ] I have generated my ID card from https://oshack.xyz
-- [ ] If my ID was not verified, I completed the mandatory verification/giveaway form and tried again
+- [YES] I have generated my ID card from https://oshack.xyz
+- [YES] If my ID was not verified, I completed the mandatory verification/giveaway form and tried again
 
 ---
