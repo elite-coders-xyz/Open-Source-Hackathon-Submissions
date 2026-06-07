@@ -2,32 +2,44 @@
 
 ## Participant Details
 
-**Full Name:**  
+**Full Name:**   Atharv Bajirao Ranmale 
 <!-- Write your full name -->
 
-**GitHub Username:**  
+**GitHub Username:**  atharvranmale
 <!-- Write your GitHub username -->
 
-**Team Name:**  
+**Team Name:**  CODESTROM
 <!-- Write your team name -->
 
-**College/University:**  
+**College/University:**  DKTE Society's Textile and Engineering Institute Rajwada Ichalkaranji 416115
 <!-- Write your college/university name -->
 
 ---
 
 ## Project Details
 
-**Project Title:**  
+**Project Title:**  SignBridge
 <!-- Write your project/idea title -->
 
-**Project Description:**  
+**Project Description:**  SignBridge is an innovative accessibility project designed to make communication more inclusive. The platform aims to translate sign language gestures into text and speech, enabling seamless interaction between sign language users and the broader community.
+Our mission is to leverage modern web technologies and computer vision to create a practical, affordable, and accessible communication solution.
 <!-- Explain what your project does, what problem it solves, and why it matters -->
 
 **Tech Stack Used:**  
+React.js , 
+Vite , 
+JavaScript , 
+HTML5 , 
+CSS3  
+Future Integrations :
+MediaPipe , 
+TensorFlow Lite , 
+OpenCV , 
+Node.js , 
+Express.js 
 <!-- Example: Next.js, Node.js, MongoDB, Supabase, Tailwind CSS, Python, etc. -->
 
-**GitHub Repository Link:**  
+**GitHub Repository Link:**  https://github.com/atharvranmale/SignBridge/tree/master
 <!-- Add your public project repository link -->
 
 **Live Demo Link:**  
