@@ -1,4 +1,4 @@
-# Open Source Hackathon 2026 Project Submission
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ad48f762-333a-4355-b5ed-4c9b5829340c" /># Open Source Hackathon 2026 Project Submission
 
 ## Participant Details
 
@@ -48,7 +48,7 @@ N/A
 - [x] My repository has a proper README.md
 - [x] I have added setup/installation instructions
 - [ ] I have added screenshots/demo where possible
-- [ ] I have added a license file
+- [x] I have added a license file
 - [x] My project is original and built/updated during the hackathon period
 
 ---
