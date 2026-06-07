@@ -3,38 +3,64 @@
 ## Participant Details
 
 **Full Name:**  
-<!-- Write your full name -->
+<!-- Suba Aishwarya S-->
 
 **GitHub Username:**  
-<!-- Write your GitHub username -->
+<!-- subaaishwaryas-ops -->
 
 **Team Name:**  
-<!-- Write your team name -->
+<!-- vspark -->
 
 **College/University:**  
-<!-- Write your college/university name -->
+<!-- Chennai institute of technology-->
 
 ---
 
 ## Project Details
 
 **Project Title:**  
-<!-- Write your project/idea title -->
+<!--ghost_out-->
 
 **Project Description:**  
-<!-- Explain what your project does, what problem it solves, and why it matters -->
+<!--  GhostOut is an AI-powered cyberstalker and fake profile 
+detection system designed to protect women from online 
+threats. Unlike existing platforms that act only after 
+abuse occurs, GhostOut proactively detects threats in 
+real-time using a 4-engine AI architecture — before the 
+first message is even sent.   -->
 
 **Tech Stack Used:**  
-<!-- Example: Next.js, Node.js, MongoDB, Supabase, Tailwind CSS, Python, etc. -->
+<!-- Backend:
+• Python 3.13
+• FastAPI — REST API framework
+• VADER Sentiment — NLP threat detection
+• NetworkX — Graph-based bot farm detection
+• TinyDB — Lightweight predator database
+• SHA-256 — Privacy-safe hashing
+• httpx — Async engine communication
+
+Frontend:
+• HTML5 / CSS3 / JavaScript
+• Responsive dark UI dashboard
+
+Security:
+• SHA-256 hashing (predator IDs)
+• CORS middleware
+• Environment variables (.env)
+
+Deployment:
+• Netlify (Frontend)
+• Render (Backend)
+• GitHub (Version Control), etc. -->
 
 **GitHub Repository Link:**  
-<!-- Add your public project repository link -->
+<!-- https://github.com/subaaishwaryas-ops/ghost_out -->
 
 **Live Demo Link:**  
-<!-- Add deployed link if available -->
+<!--  https://ghostout.netlify.app/  -->
 
 **Presentation / Demo Video Link:**  
-<!-- Optional but recommended -->
+<!--   https://drive.google.com/file/d/1azOjWn-johVSh_jekEyc0dnvBv5Hiifj/view?usp=drivesdk   -->
 
 ---
 
