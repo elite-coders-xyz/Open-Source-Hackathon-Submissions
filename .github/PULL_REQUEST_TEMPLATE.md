@@ -3,38 +3,38 @@
 ## Participant Details
 
 **Full Name:**  
-<!-- Write your full name -->
+<!-- D THRISHANTH REDDY -->
 
 **GitHub Username:**  
-<!-- Write your GitHub username -->
+<!-- THRISHANTH222 -->
 
 **Team Name:**  
-<!-- Write your team name -->
+<!-- DTR X AI -->
 
 **College/University:**  
-<!-- Write your college/university name -->
+<!-- Jawaharlal Nehru Technological University College of Engineering Anantapur -->
 
 ---
 
 ## Project Details
 
 **Project Title:**  
-<!-- Write your project/idea title -->
+<!-- AGROGUARD -->
 
 **Project Description:**  
-<!-- Explain what your project does, what problem it solves, and why it matters -->
+<!-- My project is an Al-powered smart farming platform that helps farmers in climate-vulnerable regions make better agricultural decisions. By combining weather forecasts, satellite data, soil analysis, and Al recommendations, it optimizes irrigation, reduces fertilizer wastage, detects crop health issues, and recommends climate-resilient crops to improve yield and farmer income -->
 
 **Tech Stack Used:**  
-<!-- Example: Next.js, Node.js, MongoDB, Supabase, Tailwind CSS, Python, etc. -->
+<!-- Supabase, TypeScript etc. -->
 
 **GitHub Repository Link:**  
-<!-- Add your public project repository link -->
+<!-- https://github.com/THRISHANTH222/agroguard24.git-->
 
 **Live Demo Link:**  
-<!-- Add deployed link if available -->
+<!-- https://agroguard24.lovable.app/ -->
 
 **Presentation / Demo Video Link:**  
-<!-- Optional but recommended -->
+<!-- https://youtu.be/TiOSB05XL-4?si=4kzNeP1N6K4QY407 -->
 
 ---
 
