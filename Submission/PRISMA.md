@@ -2,38 +2,57 @@
 
 ## Participant Details
 
-**Full Name:**  
+**Full Name:**  Khushi
 <!-- Write your full name -->
 
-**GitHub Username:**  
+**GitHub Username:**  KhushiY215
 <!-- Write your GitHub username -->
 
-**Team Name:**  
+**Team Name:**  Coffee Coded
 <!-- Write your team name -->
 
-**College/University:**  
+**College/University:**  SRM University 
 <!-- Write your college/university name -->
 
 ---
 
 ## Project Details
 
-**Project Title:**  
+**Project Title:**  PRISMA - PR Intelligence Security Monitor Agent
 <!-- Write your project/idea title -->
 
 **Project Description:**  
+PRISMA (PR Intelligence Security Monitor Agent) is an AI-powered pull request review assistant that integrates with GitHub to automatically analyze pull requests in real time. The platform detects security vulnerabilities, risky coding patterns, code smells, and performance issues, then generates structured review feedback posted directly inside GitHub pull requests — without any manual intervention.
+
 <!-- Explain what your project does, what problem it solves, and why it matters -->
 
 **Tech Stack Used:**  
+### Frontend
+- **React** — Component-based UI
+- **Recharts** — Review analytics and data visualization
+
+### Backend
+- **FastAPI** — High-performance Python API server
+- **Python 3.10+**
+
+### AI Integration
+- **Groq API** with **GPT-OSS 120B**
+
+### Integrations
+- **GitHub Webhooks** — Real-time event triggers
+- **GitHub REST API** — PR diff fetching and comment posting
+
 <!-- Example: Next.js, Node.js, MongoDB, Supabase, Tailwind CSS, Python, etc. -->
 
-**GitHub Repository Link:**  
+**GitHub Repository Link:**  https://github.com/KhushiY215/PRISMA-PR-Intelligence-Security-Monitor-AI-Agent
+
 <!-- Add your public project repository link -->
 
-**Live Demo Link:**  
+**Live Demo Link:**  NA
 <!-- Add deployed link if available -->
 
-**Presentation / Demo Video Link:**  
+**Presentation / Demo Video Link:**  https://youtu.be/TumYwdceRh4?si=Jym_LV7ivgK1Wywj
+
 <!-- Optional but recommended -->
 
 ---
