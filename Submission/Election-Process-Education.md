@@ -9,7 +9,7 @@ Jagriti
 Jagriti-student
 
 **Team Name:**  
-SoloCoder
+SoloCoder_AI
 
 **College/University:**  
 Guru Jambheshwar University of Science & Technology
