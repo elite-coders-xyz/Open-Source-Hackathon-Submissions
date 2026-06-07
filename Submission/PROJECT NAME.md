@@ -24,7 +24,7 @@
   HealthEngineer AI is an open-source, browser-based health diagnosis tool that uses the Anthropic Claude AI API to analyze patient symptoms and generate a detailed clinical report instantly. It provides disease diagnosis with confidence score, medicine recommendations, specialist referrals, lab test suggestions, and emergency alerts — all in a single HTML file with no backend required. 
 
 **Tech Stack Used:**  
- HTML5, CSS3, Vanilla JavaScript,react js,Express,django,flask(python libraries),canvas,google fonts 
+ HTML5, CSS3, Vanilla JavaScript,canvas,google fonts ,AI
 
 **GitHub Repository Link:**  
 https://github.com/murarikanuru09/Healthengineer-ai 
