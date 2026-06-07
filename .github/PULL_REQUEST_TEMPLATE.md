@@ -3,16 +3,16 @@
 ## Participant Details
 
 **Full Name:**  
-<!-- Write your full name -->
+<!-- Sudhindra M Acharya -->
 
 **GitHub Username:**  
-<!-- Write your GitHub username -->
+<!-- AcharyaSudhindra -->
 
 **Team Name:**  
-<!-- Write your team name -->
+<!-- QuantumApex -->
 
 **College/University:**  
-<!-- Write your college/university name -->
+<!-- Bangalore Institute of Technology -->
 
 ---
 
@@ -22,19 +22,43 @@
 <!-- Write your project/idea title -->
 
 **Project Description:**  
-<!-- Explain what your project does, what problem it solves, and why it matters -->
+<!-- LogicAgent AI is an autonomous, LLM-powered hardware engineering agent. It writes Verilog code, simulates it using a built-in, zero-dependency Python simulator, and verifies the resulting waveforms. If the logic fails, the AI analyzes the exact timing errors and self-corrects the code in a continuous loop until the circuit is perfect.
+
+The problem it solves: Hardware verification is notoriously slow, typically requiring engineers to write boilerplate testbenches, run them through heavy, expensive EDA tools (like Vivado or ModelSim), and manually scrub through thousands of waveform clock cycles by eye to find timing bugs.
+
+Why it matters: It democratizes and radically accelerates RTL development. By replacing heavy EDA tools with a lightweight Python backend and automating the entire debug-and-testbench loop, LogicAgent saves hardware engineers countless hours and transforms RTL verification into a seamless, AI-assisted workflow. -->
 
 **Tech Stack Used:**  
-<!-- Example: Next.js, Node.js, MongoDB, Supabase, Tailwind CSS, Python, etc. -->
+<!-- Frontend:
+
+Next.js
+React
+TypeScript
+TailwindCSS
+Framer Motion
+Monaco Editor
+Backend:
+
+Python 3
+FastAPI
+Uvicorn
+SQLAlchemy
+WebSockets
+SQLite
+AI & Verification Engine:
+
+Google Gemini API (GenAI SDK)
+Custom Python Verilog Simulator
+Icarus Verilog (iverilog) -->
 
 **GitHub Repository Link:**  
-<!-- Add your public project repository link -->
+<!-- [LogicAgent](https://github.com/AcharyaSudhindra/LogicAgent) -->
 
 **Live Demo Link:**  
-<!-- Add deployed link if available -->
+<!-- [deployed app](https://logicagent.onrender.com) -->
 
 **Presentation / Demo Video Link:**  
-<!-- Optional but recommended -->
+<!-- https://drive.google.com/file/d/1UKYr5dZAahAswqWnljfA_6CcOcFdyuAk/view?usp=sharing -->
 
 ---
 
@@ -74,6 +98,3 @@ Please complete these before submitting:
 
 ---
 
-## Additional Notes
-
-<!-- Add anything else you want the judges to know -->
