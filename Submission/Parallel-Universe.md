@@ -45,8 +45,8 @@ N/A
 ## Open Source Readiness
 
 - [x] My project is public on GitHub
-- [ ] My repository has a proper README.md
-- [ ] I have added setup/installation instructions
+- [x] My repository has a proper README.md
+- [x] I have added setup/installation instructions
 - [ ] I have added screenshots/demo where possible
 - [ ] I have added a license file
 - [x] My project is original and built/updated during the hackathon period
