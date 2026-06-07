@@ -3,49 +3,52 @@
 ## Participant Details
 
 **Full Name:**  
-<!-- Write your full name -->
+  Rishav Raj
 
 **GitHub Username:**  
-<!-- Write your GitHub username -->
+  Rishav060
 
 **Team Name:**  
-<!-- Write your team name -->
+< TechSavvy
 
 **College/University:**  
-<!-- Write your college/university name -->
+  Jain University
 
 ---
 
 ## Project Details
 
 **Project Title:**  
-<!-- Write your project/idea title -->
+  Open Source Starter Hub
+
 
 **Project Description:**  
-<!-- Explain what your project does, what problem it solves, and why it matters -->
+  Open Source Starter Hub is a beginner-focused platform that helps students take their first step into open source. It provides curated beginner-friendly           projects, learning resources, contributor stories, and a clear roadmap that guides users from learning Git and GitHub to making their first successful             contribution.
+
 
 **Tech Stack Used:**  
-<!-- Example: Next.js, Node.js, MongoDB, Supabase, Tailwind CSS, Python, etc. -->
+  HTML, CSS, JavaScript, GitHub, Vercel
+
 
 **GitHub Repository Link:**  
-<!-- Add your public project repository link -->
+  https://github.com/Rishav060/open-source-starter-hub
 
 **Live Demo Link:**  
-<!-- Add deployed link if available -->
+  https://open-source-starter-hub-g4d1.vercel.app/
 
 **Presentation / Demo Video Link:**  
-<!-- Optional but recommended -->
+  https://docs.google.com/presentation/d/1GRMweQbqy3T2tkW6w7l1wJ7jJGaLRZ2UTWP7C0aET2I/edit?usp=drivesdk
 
 ---
 
 ## Open Source Readiness
 
-- [ ] My project is public on GitHub
-- [ ] My repository has a proper README.md
-- [ ] I have added setup/installation instructions
-- [ ] I have added screenshots/demo where possible
-- [ ] I have added a license file
-- [ ] My project is original and built/updated during the hackathon period
+- [yes] My project is public on GitHub
+- [yes] My repository has a proper README.md
+- [yes] I have added setup/installation instructions
+- [yes] I have added screenshots/demo where possible
+- [yes] I have added a license file
+- [yes] My project is original and built/updated during the hackathon period
 
 ---
 
@@ -53,23 +56,23 @@
 
 Please complete these before submitting:
 
-- [ ] I have starred the Memori Labs GitHub repository  
+- [done] I have starred the Memori Labs GitHub repository  
   https://github.com/MemoriLabs/Memori
 
-- [ ] I have followed Memori Labs on LinkedIn  
+- [done] I have followed Memori Labs on LinkedIn  
   https://www.linkedin.com/company/memorilabs/
 
-- [ ] I have followed Memori Labs on X  
+- [done] I have followed Memori Labs on X  
   https://x.com/memorilab
 
-- [ ] I have checked Memori Labs social links  
+- [done] I have checked Memori Labs social links  
   https://linktr.ee/memorilabs
 
 ---
 
 ## ID Card Verification
 
-- [ ] I have generated my ID card from https://oshack.xyz
+- [done] I have generated my ID card from https://oshack.xyz
 - [ ] If my ID was not verified, I completed the mandatory verification/giveaway form and tried again
 
 ---
