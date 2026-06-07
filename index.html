@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Conversational AI Voice Agent</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <!-- Header -->
+      <header class="header">
+        <h1>🤖 AI Voice Assistant</h1>
+        <p>Have natural conversations with advanced AI</p>
+      </header>
+
+      <!-- Session Information -->
+      <div class="session-info">
+        <div class="session-id">
+          Session: <span id="current-session">Loading...</span>
+        </div>
+        <div class="stats">
+          Turns: <span id="conversation-turns">0</span> | Messages:
+          <span id="total-messages">0</span>
+        </div>
+      </div>
+
+      <!-- Main Voice Interface -->
+      <div class="glass-card">
+        <h2 class="section-title">🎙️ Voice Conversation</h2>
+
+        <!-- Voice Controls -->
+        <div class="voice-controls">
+          <label for="voice-select" class="voice-label">Voice:</label>
+          <select id="voice-select" class="voice-select">
+            <option value="en-US-natalie">Natalie (Female)</option>
+            <option value="en-US-terrell">Terrell (Male)</option>
+            <option value="en-US-sarah">Sarah (Female)</option>
+          </select>
+        </div>
+
+        <!-- Main Record Button -->
+        <div class="record-section">
+          <div class="record-button-container">
+            <button
+              id="main-record-button"
+              class="record-button"
+              title="Click to start/stop recording"
+            >
+              <div class="record-icon">🎤</div>
+              <div class="record-ripple"></div>
+            </button>
+          </div>
+          <div class="record-status">
+            <span id="record-status-text">Click to start recording</span>
+          </div>
+        </div>
+
+        <!-- Alternative Text Input -->
+        <div class="text-input-section">
+          <div class="input-container">
+            <textarea
+              id="text-input"
+              class="text-input"
+              placeholder="Or type your message here..."
+              rows="3"
+            ></textarea>
+            <button id="send-text-button" class="send-button">
+              <span class="send-icon">📤</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- Status Display -->
+        <div id="status-display" class="status-display">
+          <div class="status-icon">🟢</div>
+          <span class="status-text">Ready to chat</span>
+        </div>
+
+        <!-- Auto-record Toggle -->
+        <div class="toggle-section">
+          <div id="auto-record-toggle" class="auto-record-toggle">
+            <span class="toggle-label">Auto-record</span>
+            <div class="toggle-switch">
+              <div class="toggle-slider"></div>
+            </div>
+            <span class="toggle-status">OFF</span>
+          </div>
+        </div>
+
+        <!-- Chat History -->
+        <div class="chat-history" id="chat-history">
+          <h3 class="chat-title">💬 Conversation History</h3>
+          <div id="history-messages" class="history-messages">
+            <div class="empty-chat">
+              <div class="empty-icon">💭</div>
+              <p>Start a conversation by recording or typing a message</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Session Management -->
+      <div class="glass-card">
+        <h3 class="section-title">⚙️ Session Management</h3>
+        <div class="session-controls">
+          <div class="control-group">
+            <button id="new-session-btn" class="btn btn-primary">
+              <span class="btn-icon">🔄</span>
+              <span>New Session</span>
+            </button>
+            <button id="clear-history-btn" class="btn btn-danger">
+              <span class="btn-icon">🗑️</span>
+              <span>Clear History</span>
+            </button>
+          </div>
+          <div class="control-group">
+            <input
+              type="text"
+              id="custom-session-input"
+              class="session-input"
+              placeholder="Enter session ID..."
+            />
+            <button id="load-session-btn" class="btn btn-secondary">
+              <span class="btn-icon">📂</span>
+              <span>Load</span>
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Error/Warning Containers -->
+      <div id="error-container" class="notification-container"></div>
+      <div id="warning-container" class="notification-container"></div>
+
+      <!-- Hidden Audio Element for Auto-play -->
+      <audio id="response-audio" style="display: none" autoplay></audio>
+
+      <!-- Server Status -->
+      <div id="server-status" class="server-status">
+        <div class="server-status-content">
+          <div class="status-indicator"></div>
+          <span>Checking server...</span>
+        </div>
+      </div>
+
+      <!-- Floating Action Hints -->
+      <div class="floating-hints">
+        <div class="hint" id="space-hint">Press Space to record</div>
+        <div class="hint" id="escape-hint">Press Esc to dismiss</div>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
