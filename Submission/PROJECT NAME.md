@@ -3,32 +3,41 @@
 ## Participant Details
 
 **Full Name:**  
-<!-- Write your full name -->
+Krithik Gokul S
 
 **GitHub Username:**  
-<!-- Write your GitHub username -->
+krithikgokuls
 
 **Team Name:**  
-<!-- Write your team name -->
+ECE DAZZLERS
 
 **College/University:**  
-<!-- Write your college/university name -->
+K.Ramakrishnan College of Engineering
 
 ---
 
 ## Project Details
 
 **Project Title:**  
-<!-- Write your project/idea title -->
+Departmental Store Billing Management System
 
 **Project Description:**  
-<!-- Explain what your project does, what problem it solves, and why it matters -->
+The Departmental Store Billing Management System is a Java-based console application developed to automate the billing and inventory management process of a retail store. The system provides separate functionalities for Owner and Cashier roles.
+
+The owner can manage cashier accounts by adding, viewing, and removing cashiers. Cashiers can manage stock inventory, generate customer bills, view bills, and update stock quantities automatically after sales. The system also maintains billing and stock records using text files.
+
+This project demonstrates concepts such as Object-Oriented Programming (OOP), File Handling, Collections Framework, User Authentication, Inventory Management, and Billing Operations.
 
 **Tech Stack Used:**  
-<!-- Example: Next.js, Node.js, MongoDB, Supabase, Tailwind CSS, Python, etc. -->
+Language: Java
+Frontend: Console-Based Interface (CLI)
+Backend: Core Java
+Data Storage: Text Files (.txt)
+Libraries: Java Collections Framework (ArrayList), File Handling APIs
+IDE: jGRASP / Eclipse / IntelliJ IDEA
 
 **GitHub Repository Link:**  
-<!-- Add your public project repository link -->
+https://github.com/krithikgokuls/JavaProjects
 
 **Live Demo Link:**  
 <!-- Add deployed link if available -->
