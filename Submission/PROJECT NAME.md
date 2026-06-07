@@ -3,32 +3,51 @@
 ## Participant Details
 
 **Full Name:**  
-<!-- Write your full name -->
+Muskan Kumari
 
 **GitHub Username:**  
-<!-- Write your GitHub username -->
+Muskankr
 
 **Team Name:**  
-<!-- Write your team name -->
+InnovX
 
 **College/University:**  
-<!-- Write your college/university name -->
+UIET, MDU, Rohtak
 
 ---
 
 ## Project Details
 
 **Project Title:**  
-<!-- Write your project/idea title -->
+Collaborative-Workspace-App
 
 **Project Description:**  
-<!-- Explain what your project does, what problem it solves, and why it matters -->
+This project is a real-time collaborative platform built using the MERN stack. It allows users to:
+
+Create and manage workspaces
+Communicate via real-time chat
+Add team members
+Use an AI assistant for quick help
 
 **Tech Stack Used:**  
-<!-- Example: Next.js, Node.js, MongoDB, Supabase, Tailwind CSS, Python, etc. -->
+Frontend
+React.js
+Tailwind CSS
+Axios
+React Router
+
+Backend
+Node.js
+Express.js
+
+Database
+MongoDB (Mongoose)
+
+Real-Time Communication
+Socket.io
 
 **GitHub Repository Link:**  
-<!-- Add your public project repository link -->
+https://github.com/Muskankr/Collaborative-Workspace-App
 
 **Live Demo Link:**  
 <!-- Add deployed link if available -->
@@ -40,12 +59,12 @@
 
 ## Open Source Readiness
 
-- [ ] My project is public on GitHub
-- [ ] My repository has a proper README.md
-- [ ] I have added setup/installation instructions
-- [ ] I have added screenshots/demo where possible
+- [x] My project is public on GitHub
+- [x] My repository has a proper README.md
+- [x] I have added setup/installation instructions
+- [x] I have added screenshots/demo where possible
 - [ ] I have added a license file
-- [ ] My project is original and built/updated during the hackathon period
+- [x] My project is original and built/updated during the hackathon period
 
 ---
 
@@ -53,23 +72,23 @@
 
 Please complete these before submitting:
 
-- [ ] I have starred the Memori Labs GitHub repository  
+- [x] I have starred the Memori Labs GitHub repository  
   https://github.com/MemoriLabs/Memori
 
-- [ ] I have followed Memori Labs on LinkedIn  
+- [x] I have followed Memori Labs on LinkedIn  
   https://www.linkedin.com/company/memorilabs/
 
-- [ ] I have followed Memori Labs on X  
+- [x] I have followed Memori Labs on X  
   https://x.com/memorilab
 
-- [ ] I have checked Memori Labs social links  
+- [x] I have checked Memori Labs social links  
   https://linktr.ee/memorilabs
 
 ---
 
 ## ID Card Verification
 
-- [ ] I have generated my ID card from https://oshack.xyz
-- [ ] If my ID was not verified, I completed the mandatory verification/giveaway form and tried again
+- [x] I have generated my ID card from https://oshack.xyz
+- [x] If my ID was not verified, I completed the mandatory verification/giveaway form and tried again
 
 ---
