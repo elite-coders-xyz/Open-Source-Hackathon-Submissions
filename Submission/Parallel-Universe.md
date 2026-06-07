@@ -35,7 +35,7 @@ Parallel Universe is an AI-powered decision intelligence platform that simulates
 https://github.com/farhana-code-hussain/Parallel-Universe
 
 **Live Demo Link:**  
-Not deployed yet
+https://keen-rolypoly-279c28.netlify.app/
 
 **Presentation / Demo Video Link:**  
 N/A
