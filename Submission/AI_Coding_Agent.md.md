@@ -8,7 +8,7 @@
 **GitHub Username:**  Whalien08
 <!-- Write your GitHub username -->
 
-**Team Name:** (Solo)
+**Team Name:** KIKI(Solo)
 <!-- Write your team name -->
 
 **College/University:**  College of Engineering Attingal
