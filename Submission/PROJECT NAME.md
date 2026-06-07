@@ -3,32 +3,30 @@
 ## Participant Details
 
 **Full Name:**  
-<!-- Write your full name -->
+Avala Swarna Akshaya 
 
 **GitHub Username:**  
-<!-- Write your GitHub username -->
+ akshaya20055
 
 **Team Name:**  
-<!-- Write your team name -->
-
+individual 
 **College/University:**  
-<!-- Write your college/university name -->
+sir c r reddy college of engineering/jntuk
 
 ---
 
 ## Project Details
 
 **Project Title:**  
-<!-- Write your project/idea title -->
+Ai attendance system 
 
 **Project Description:**  
-<!-- Explain what your project does, what problem it solves, and why it matters -->
-
+An AI-powered attendance system that uses facial recognition to automatically identify students and mark attendance. It reduces manual work, saves time, improves accuracy, and helps institutions manage attendance efficiently.
 **Tech Stack Used:**  
-<!-- Example: Next.js, Node.js, MongoDB, Supabase, Tailwind CSS, Python, etc. -->
+Python, Flask, OpenCV, HTML, CSS, JavaScript, SQLite
 
 **GitHub Repository Link:**  
-<!-- Add your public project repository link -->
+https://github.com/akshaya20055
 
 **Live Demo Link:**  
 <!-- Add deployed link if available -->
@@ -40,12 +38,12 @@
 
 ## Open Source Readiness
 
-- [ ] My project is public on GitHub
-- [ ] My repository has a proper README.md
-- [ ] I have added setup/installation instructions
-- [ ] I have added screenshots/demo where possible
-- [ ] I have added a license file
-- [ ] My project is original and built/updated during the hackathon period
+- [ ✓] My project is public on GitHub
+- [✓ ] My repository has a proper README.md
+- [✓ ] I have added setup/installation instructions
+- [✓ ] I have added screenshots/demo where possible
+- [✓ ] I have added a license file
+- [✓ ] My project is original and built/updated during the hackathon period
 
 ---
 
@@ -53,23 +51,23 @@
 
 Please complete these before submitting:
 
-- [ ] I have starred the Memori Labs GitHub repository  
+-  [✓] I have starred the Memori Labs GitHub repository  
   https://github.com/MemoriLabs/Memori
 
-- [ ] I have followed Memori Labs on LinkedIn  
+- [✓ ] I have followed Memori Labs on LinkedIn  
   https://www.linkedin.com/company/memorilabs/
 
-- [ ] I have followed Memori Labs on X  
+- [ ✓] I have followed Memori Labs on X  
   https://x.com/memorilab
 
-- [ ] I have checked Memori Labs social links  
+- [✓ ] I have checked Memori Labs social links  
   https://linktr.ee/memorilabs
 
 ---
 
 ## ID Card Verification
 
-- [ ] I have generated my ID card from https://oshack.xyz
-- [ ] If my ID was not verified, I completed the mandatory verification/giveaway form and tried again
+- [✓ ] I have generated my ID card from https://oshack.xyz
+- [ ✓] If my ID was not verified, I completed the mandatory verification/giveaway form and tried again
 
 ---
