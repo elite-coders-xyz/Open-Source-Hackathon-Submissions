@@ -3,49 +3,46 @@
 ## Participant Details
 
 **Full Name:**  
-<!-- Write your full name -->
+ KANURU MURARI 
 
 **GitHub Username:**  
-<!-- Write your GitHub username -->
+ murarikanuru09
 
 **Team Name:**  
-<!-- Write your team name -->
+ Hacker
 
 **College/University:**  
-<!-- Write your college/university name -->
+ RGUKT Srikakulam, Andhra Pradesh(IIIT) 
 
----
 
 ## Project Details
 
 **Project Title:**  
-<!-- Write your project/idea title -->
+ HealthEngineer AI
 
 **Project Description:**  
-<!-- Explain what your project does, what problem it solves, and why it matters -->
+  HealthEngineer AI is an open-source, browser-based health diagnosis tool that uses the Anthropic Claude AI API to analyze patient symptoms and generate a detailed clinical report instantly. It provides disease diagnosis with confidence score, medicine recommendations, specialist referrals, lab test suggestions, and emergency alerts — all in a single HTML file with no backend required. 
 
 **Tech Stack Used:**  
-<!-- Example: Next.js, Node.js, MongoDB, Supabase, Tailwind CSS, Python, etc. -->
+ HTML5, CSS3, Vanilla JavaScript,react js,Express,django,flask(python libraries),canvas,google fonts 
 
 **GitHub Repository Link:**  
-<!-- Add your public project repository link -->
+https://github.com/murarikanuru09/Healthengineer-ai 
 
 **Live Demo Link:**  
-<!-- Add deployed link if available -->
+ https://murarikanuru09.github.io/Healthengineer-ai 
 
 **Presentation / Demo Video Link:**  
-<!-- Optional but recommended -->
-
----
+ N/A
 
 ## Open Source Readiness
 
-- [ ] My project is public on GitHub
-- [ ] My repository has a proper README.md
-- [ ] I have added setup/installation instructions
-- [ ] I have added screenshots/demo where possible
-- [ ] I have added a license file
-- [ ] My project is original and built/updated during the hackathon period
+- [x] My project is public on GitHub
+- [x] My repository has a proper README.md
+- [x] I have added setup/installation instructions
+- [x] I have added screenshots/demo where possible
+- [x] I have added a license file
+- [x] My project is original and built/updated during the hackathon period
 
 ---
 
@@ -53,23 +50,22 @@
 
 Please complete these before submitting:
 
-- [ ] I have starred the Memori Labs GitHub repository  
+- [x] I have starred the Memori Labs GitHub repository  
   https://github.com/MemoriLabs/Memori
 
-- [ ] I have followed Memori Labs on LinkedIn  
+- [x] I have followed Memori Labs on LinkedIn  
   https://www.linkedin.com/company/memorilabs/
 
-- [ ] I have followed Memori Labs on X  
+- [x] I have followed Memori Labs on X  
   https://x.com/memorilab
 
-- [ ] I have checked Memori Labs social links  
+- [x] I have checked Memori Labs social links  
   https://linktr.ee/memorilabs
 
----
 
 ## ID Card Verification
 
-- [ ] I have generated my ID card from https://oshack.xyz
-- [ ] If my ID was not verified, I completed the mandatory verification/giveaway form and tried again
+- [x] I have generated my ID card from https://oshack.xyz
+- [x] If my ID was not verified, I completed the mandatory verification/giveaway form and tried again
 
----
+
