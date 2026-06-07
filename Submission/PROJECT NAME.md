@@ -3,49 +3,56 @@
 ## Participant Details
 
 **Full Name:**  
-<!-- Write your full name -->
+Md Hamzah Omair
 
 **GitHub Username:**  
-<!-- Write your GitHub username -->
+Md-Hamzah-Omair
 
 **Team Name:**  
-<!-- Write your team name -->
+Kernel Panic
 
 **College/University:**  
-<!-- Write your college/university name -->
+Christ College Pune
 
 ---
 
 ## Project Details
 
 **Project Title:**  
-<!-- Write your project/idea title -->
+Markdown-To-Portfolio-Builder
 
 **Project Description:**  
-<!-- Explain what your project does, what problem it solves, and why it matters -->
+The **Markdown-to-Portfolio Builder** is an autonomous, AI-driven engine designed to solve the portfolio update problem. By integrating directly with your GitHub profile and parsing existing resume documents (PDF or Markdown), it leverages the Google Gemini API to generate a professional narrative and high-fidelity Single Page Application (SPA), optimized for static hosting on GitHub Pages.
 
 **Tech Stack Used:**  
-<!-- Example: Next.js, Node.js, MongoDB, Supabase, Tailwind CSS, Python, etc. -->
+Category | Technology |
+**Framework** | [Next.js 15 (App Router)](https://nextjs.org/) |
+**Styling** | [Tailwind CSS 4](https://tailwindcss.com/) |
+**Animations** | [Framer Motion](https://www.framer.com/motion/) |
+**AI Engine** | [Google Gemini API (3.5 Flash)](https://aistudio.google.com/) |
+**Data Extraction** | [pdf-parse](https://www.npmjs.com/package/pdf-parse) |
+**Icons** | [Lucide React](https://lucide.dev/) |
+
 
 **GitHub Repository Link:**  
-<!-- Add your public project repository link -->
+[Markdown-to-Portfolio Builder](https://github.com/Md-Hamzah-Omair/Markdown-to-Portfolio-Builder)
 
 **Live Demo Link:**  
-<!-- Add deployed link if available -->
+([Linus Torvalds Exapmple:](https://md-hamzah-omair.github.io/Markdown-to-Portfolio-Builder/))
 
 **Presentation / Demo Video Link:**  
-<!-- Optional but recommended -->
+<img width="1847" height="1200" alt="image" src="https://github.com/user-attachments/assets/48eb76bd-503a-478c-a30b-b0585f9bca19" />
+
 
 ---
 
 ## Open Source Readiness
 
-- [ ] My project is public on GitHub
-- [ ] My repository has a proper README.md
-- [ ] I have added setup/installation instructions
-- [ ] I have added screenshots/demo where possible
-- [ ] I have added a license file
-- [ ] My project is original and built/updated during the hackathon period
+- [x] My repository has a proper README.md
+- [x] I have added setup/installation instructions
+- [x] I have added screenshots/demo where possible
+- [x] I have added a license file
+- [x] My project is original and built/updated during the hackathon period
 
 ---
 
@@ -53,23 +60,23 @@
 
 Please complete these before submitting:
 
-- [ ] I have starred the Memori Labs GitHub repository  
+- [x] I have starred the Memori Labs GitHub repository  
   https://github.com/MemoriLabs/Memori
 
-- [ ] I have followed Memori Labs on LinkedIn  
+- [x] I have followed Memori Labs on LinkedIn  
   https://www.linkedin.com/company/memorilabs/
 
-- [ ] I have followed Memori Labs on X  
+- [x] I have followed Memori Labs on X  
   https://x.com/memorilab
 
-- [ ] I have checked Memori Labs social links  
+- [x] I have checked Memori Labs social links  
   https://linktr.ee/memorilabs
 
 ---
 
 ## ID Card Verification
 
-- [ ] I have generated my ID card from https://oshack.xyz
-- [ ] If my ID was not verified, I completed the mandatory verification/giveaway form and tried again
+- [x] I have generated my ID card from https://oshack.xyz
+- [x] If my ID was not verified, I completed the mandatory verification/giveaway form and tried again
 
 ---
