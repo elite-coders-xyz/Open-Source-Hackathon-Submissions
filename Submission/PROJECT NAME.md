@@ -1,40 +1,40 @@
-# Open Source Hackathon 2026 Project Submission
+<img width="959" height="531" alt="image" src="https://github.com/user-attachments/assets/04a364cc-20ff-4b4b-ae72-fba1fe2782b0" /># Open Source Hackathon 2026 Project Submission
 
 ## Participant Details
 
 **Full Name:**  
-<!-- Write your full name -->
+<!-- sourav kumar -->
 
 **GitHub Username:**  
-<!-- Write your GitHub username -->
+<!-- souravkumar78706287-lgtm -->
 
 **Team Name:**  
-<!-- Write your team name -->
+<!-- sourav kumar-->
 
 **College/University:**  
-<!-- Write your college/university name -->
+<!-- sourav kumar-->
 
 ---
 
 ## Project Details
 
 **Project Title:**  
-<!-- Write your project/idea title -->
+<!-- background remover ai powered website-->
 
 **Project Description:**  
-<!-- Explain what your project does, what problem it solves, and why it matters -->
+<!-- qit just removes the background with the help of the api -->
 
 **Tech Stack Used:**  
-<!-- Example: Next.js, Node.js, MongoDB, Supabase, Tailwind CSS, Python, etc. -->
+<!-- Next.js, Node.js,react .js, html,MongoDB, Supabase, Tailwind CSS, Python, etc. -->
 
 **GitHub Repository Link:**  
-<!-- Add your public project repository link -->
+<!-- https://github.com/souravkumar78706287-lgtm/snapcut-ai-pro -->
 
 **Live Demo Link:**  
-<!-- Add deployed link if available -->
+<!-- snapcut-ai-pro-taupe.vercel.app -->
 
 **Presentation / Demo Video Link:**  
-<!-- Optional but recommended -->
+<!-- no-->
 
 ---
 
