@@ -1,0 +1,52 @@
+version: "3.9"
+
+services:
+
+  # ── Ollama — Gemma 2 local LLM (the Ollama track entry) ──────────────────
+  ollama:
+    image: ollama/ollama:latest
+    container_name: ecovision_ollama
+    volumes:
+      - ollama_models:/root/.ollama
+    ports:
+      - "11434:11434"
+    restart: unless-stopped
+    # Pull Gemma 2 on first start
+    entrypoint: >
+      sh -c "ollama serve &
+             sleep 5 &&
+             ollama pull gemma2:2b &&
+             wait"
+
+  # ── FastAPI Backend ───────────────────────────────────────────────────────
+  backend:
+    build: ./backend
+    container_name: ecovision_backend
+    ports:
+      - "8000:8000"
+    environment:
+      OLLAMA_BASE_URL: http://ollama:11434
+      GEMMA_MODEL: gemma2:2b
+      YOLO_MODEL_PATH: yolov8n.pt
+      # Optional: add Azure TTS key for natural voices
+      AZURE_TTS_KEY: ${AZURE_TTS_KEY:-}
+      AZURE_TTS_REGION: ${AZURE_TTS_REGION:-}
+    depends_on:
+      - ollama
+    restart: unless-stopped
+
+  # ── React Frontend ────────────────────────────────────────────────────────
+  frontend:
+    build: ./frontend
+    container_name: ecovision_frontend
+    ports:
+      - "3000:80"
+    environment:
+      REACT_APP_API_URL: https://api.aivisionpro.xyz
+      REACT_APP_WS_URL: wss://api.aivisionpro.xyz
+    depends_on:
+      - backend
+    restart: unless-stopped
+
+volumes:
+  ollama_models:    # Persists Gemma model across restarts

@@ -1,0 +1,155 @@
+/* ═══════════════════════════════════════════════════════════════
+   EcoVision AI — Global Styles
+   Design direction: "Biophilic Intelligence"
+   Deep forest greens, warm paper whites, IBM Mono data aesthetic
+   ═══════════════════════════════════════════════════════════════ */
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=IBM+Plex+Mono:wght@400;500;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap');
+
+/* ── Design tokens ──────────────────────────────────────────── */
+:root {
+  /* Greens — primary */
+  --eco-950:  #052e16;
+  --eco-900:  #14532d;
+  --eco-800:  #166534;
+  --eco-700:  #15803d;
+  --eco-600:  #16a34a;
+  --eco-500:  #22c55e;
+  --eco-400:  #4ade80;
+  --eco-100:  #dcfce7;
+  --eco-50:   #f0fdf4;
+
+  /* Category colours */
+  --wet-bg:       #d1fae5; --wet-border:    #059669; --wet-text:    #064e3b; --wet-glow:    rgba(5,150,105,.25);
+  --dry-bg:       #f3f4f6; --dry-border:    #6b7280; --dry-text:    #1f2937; --dry-glow:    rgba(107,114,128,.2);
+  --rec-bg:       #dbeafe; --rec-border:    #1d4ed8; --rec-text:    #1e3a8a; --rec-glow:    rgba(29,78,216,.25);
+  --haz-bg:       #fee2e2; --haz-border:    #dc2626; --haz-text:    #7f1d1d; --haz-glow:    rgba(220,38,38,.25);
+
+  /* Neutrals */
+  --ink:   #0a0f0d;
+  --smoke: #1c2b22;
+  --mist:  #2d4037;
+  --fog:   #3d5245;
+  --ash:   #6b8075;
+  --cloud: #a8bdb3;
+  --paper: #f4f9f6;
+  --white: #ffffff;
+
+  /* Typography */
+  --font-display: 'DM Serif Display', Georgia, serif;
+  --font-body:    'Plus Jakarta Sans', system-ui, sans-serif;
+  --font-mono:    'IBM Plex Mono', 'Courier New', monospace;
+
+  /* Spacing */
+  --r-sm:  6px;
+  --r-md:  10px;
+  --r-lg:  16px;
+  --r-xl:  24px;
+  --r-2xl: 32px;
+
+  /* Shadows */
+  --shadow-card:   0 2px 16px rgba(0,0,0,.12), 0 1px 4px rgba(0,0,0,.08);
+  --shadow-lift:   0 8px 32px rgba(0,0,0,.18), 0 2px 8px rgba(0,0,0,.12);
+  --shadow-glow-g: 0 0 32px rgba(34,197,94,.3);
+
+  /* Transitions */
+  --t-fast:   120ms ease;
+  --t-normal: 220ms ease;
+  --t-slow:   380ms cubic-bezier(.16,1,.3,1);
+}
+
+/* ── High-contrast overrides ────────────────────────────────── */
+.hc {
+  --eco-50:    #000000;
+  --eco-100:   #111111;
+  --eco-900:   #000000;
+  --eco-950:   #000000;
+  --ink:       #ffff00;
+  --smoke:     #000000;
+  --paper:     #000000;
+  --white:     #000000;
+  --cloud:     #ffff00;
+  --ash:       #ffff00;
+  --wet-bg:    #000; --wet-border: #ffff00; --wet-text: #ffff00;
+  --dry-bg:    #000; --dry-border: #ffff00; --dry-text: #ffff00;
+  --rec-bg:    #000; --rec-border: #ffff00; --rec-text: #ffff00;
+  --haz-bg:    #000; --haz-border: #ffff00; --haz-text: #ffff00;
+}
+
+/* ── Reset ──────────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  font-family: var(--font-body);
+  background: var(--eco-950);
+  color: var(--paper);
+  min-height: 100vh;
+  line-height: 1.6;
+}
+
+/* ── Focus styles — critical for accessibility ──────────────── */
+:focus-visible {
+  outline: 3px solid var(--eco-400);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+button, a, input, select {
+  font-family: inherit;
+}
+
+/* ── Scrollbar ──────────────────────────────────────────────── */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--smoke); }
+::-webkit-scrollbar-thumb { background: var(--fog); border-radius: 3px; }
+
+/* ── Screen reader only utility ─────────────────────────────── */
+.sr-only {
+  position: absolute;
+  width: 1px; height: 1px;
+  padding: 0; margin: -1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* ── Pulse animation (scanning state) ──────────────────────── */
+@keyframes pulse-ring {
+  0%   { transform: scale(1);   opacity: 1; }
+  100% { transform: scale(1.6); opacity: 0; }
+}
+
+@keyframes shimmer {
+  0%   { background-position: -200% center; }
+  100% { background-position:  200% center; }
+}
+
+@keyframes fadeSlideUp {
+  from { opacity: 0; transform: translateY(12px); }
+  to   { opacity: 1; transform: translateY(0);    }
+}
+
+@keyframes scanLine {
+  0%   { top: 0%; }
+  100% { top: 100%; }
+}
+
+@keyframes breathe {
+  0%, 100% { opacity: .7; }
+  50%       { opacity: 1; }
+}
+
+/* Respect reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}

@@ -1,0 +1,177 @@
+/* ═══════════════════════════════════════════════════════════════════════════
+   EcoVision AI — Global Design System
+   Aesthetic: Ecological Precision — dark organic surfaces, bold type, 
+              strong category color signals.
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* ── Fonts ──────────────────────────────────────────────────────────────── */
+:root {
+  /* Typography */
+  --font-display: "Syne", sans-serif;
+  --font-mono:    "IBM Plex Mono", monospace;
+  --font-body:    "Lora", Georgia, serif;
+
+  /* ── Dark base palette ─────────────────────────────────────────────────── */
+  --bg-void:    #080f0a;   /* deepest background */
+  --bg-base:    #0d1a10;   /* app background */
+  --bg-surface: #121f15;   /* cards */
+  --bg-raised:  #1a2d1e;   /* elevated elements */
+  --bg-input:   #1f3524;   /* interactive inputs */
+
+  /* ── Text ──────────────────────────────────────────────────────────────── */
+  --text-primary:   #e8f5ea;
+  --text-secondary: #8aab8e;
+  --text-muted:     #506654;
+  --text-inverse:   #080f0a;
+
+  /* ── Accent (always visible, high contrast) ────────────────────────────── */
+  --accent:       #4ade80;   /* electric green — main CTA */
+  --accent-dim:   #166534;
+  --accent-glow:  rgba(74, 222, 128, 0.18);
+
+  /* ── Waste category system ─────────────────────────────────────────────── */
+  --wet-bg:      #052e16;   --wet-border:  #16a34a;   --wet-text:  #86efac;   --wet-strong: #22c55e;
+  --dry-bg:      #1c1008;   --dry-border:  #a16207;   --dry-text:  #fcd34d;   --dry-strong: #f59e0b;
+  --rec-bg:      #0c1a3d;   --rec-border:  #1d4ed8;   --rec-text:  #93c5fd;   --rec-strong: #3b82f6;
+  --haz-bg:      #2d0a0a;   --haz-border:  #dc2626;   --haz-text:  #fca5a5;   --haz-strong: #ef4444;
+
+  /* ── High-contrast overrides (applied when .high-contrast on body) ──── */
+  --hc-bg:      #000000;
+  --hc-text:    #ffff00;
+  --hc-accent:  #ffffff;
+  --hc-border:  #ffff00;
+
+  /* ── Spacing & shape ────────────────────────────────────────────────────── */
+  --r-sm:  6px;
+  --r-md:  12px;
+  --r-lg:  18px;
+  --r-xl:  24px;
+  --r-full: 999px;
+
+  /* ── Transitions ────────────────────────────────────────────────────────── */
+  --ease-out:   cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-spring:cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+/* ── High contrast mode ─────────────────────────────────────────────────── */
+body.high-contrast {
+  --bg-void:    #000;
+  --bg-base:    #000;
+  --bg-surface: #111;
+  --bg-raised:  #222;
+  --bg-input:   #111;
+  --text-primary:   #ffff00;
+  --text-secondary: #ffff00;
+  --text-muted:     #cccc00;
+  --accent:     #ffffff;
+  --accent-glow:rgba(255,255,255,0.1);
+}
+
+/* ── Resets ─────────────────────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+}
+
+/* Respect prefers-reduced-motion */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+body {
+  background-color: var(--bg-void);
+  color: var(--text-primary);
+  font-family: var(--font-body);
+  font-size: 16px;
+  line-height: 1.6;
+  min-height: 100vh;
+  overflow-x: hidden;
+  /* Subtle organic texture */
+  background-image: 
+    radial-gradient(ellipse 80% 50% at 50% -20%, rgba(74,222,128,0.06) 0%, transparent 60%);
+}
+
+/* Large font mode (toggled via JS) */
+body.large-text { font-size: 20px; }
+
+#root { min-height: 100vh; }
+
+/* ── Skip links (keyboard/screen reader) ───────────────────────────────── */
+.skip-link {
+  position: absolute;
+  top: -100px;
+  left: 16px;
+  z-index: 9999;
+  background: var(--accent);
+  color: var(--text-inverse);
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 14px;
+  padding: 10px 20px;
+  border-radius: var(--r-md);
+  text-decoration: none;
+  transition: top 0.2s var(--ease-out);
+}
+.skip-link:focus { top: 16px; outline: 3px solid white; outline-offset: 2px; }
+
+/* ── Focus ring — always visible ────────────────────────────────────────── */
+:focus-visible {
+  outline: 2.5px solid var(--accent);
+  outline-offset: 3px;
+  border-radius: var(--r-sm);
+}
+
+/* ── Typography helpers ─────────────────────────────────────────────────── */
+.font-display { font-family: var(--font-display); }
+.font-mono    { font-family: var(--font-mono); }
+.font-body    { font-family: var(--font-body); }
+
+/* ── Screen-reader only (visually hidden) ───────────────────────────────── */
+.sr-only {
+  position: absolute;
+  width: 1px; height: 1px;
+  padding: 0; margin: -1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+/* ── Animations ─────────────────────────────────────────────────────────── */
+@keyframes pulse-ring {
+  0%   { transform: scale(1);    opacity: 0.8; }
+  100% { transform: scale(1.18); opacity: 0; }
+}
+@keyframes scan-sweep {
+  0%   { top: 0%; }
+  100% { top: 100%; }
+}
+@keyframes fade-up {
+  from { opacity: 0; transform: translateY(12px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes shimmer {
+  0%   { background-position: -200% 0; }
+  100% { background-position:  200% 0; }
+}
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+@keyframes category-flash {
+  0%, 100% { opacity: 1; }
+  50%       { opacity: 0.6; }
+}
+
+.animate-fade-up {
+  animation: fade-up 0.4s var(--ease-out) both;
+}
+.animate-fade-up-delay-1 { animation: fade-up 0.4s 0.08s var(--ease-out) both; }
+.animate-fade-up-delay-2 { animation: fade-up 0.4s 0.16s var(--ease-out) both; }
+.animate-fade-up-delay-3 { animation: fade-up 0.4s 0.24s var(--ease-out) both; }
