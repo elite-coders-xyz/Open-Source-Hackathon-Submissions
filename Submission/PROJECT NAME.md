@@ -51,7 +51,7 @@ Security:
 Deployment:
 • Netlify (Frontend)
 • Render (Backend)
-• GitHub (Version Control), etc. -->
+• GitHub (Version Control)etc. -->
 
 **GitHub Repository Link:**  
 <!-- https://github.com/subaaishwaryas-ops/ghost_out -->
