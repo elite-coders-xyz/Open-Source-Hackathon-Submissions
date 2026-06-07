@@ -3,36 +3,36 @@
 ## Participant Details
 
 **Full Name:**  
-<!-- Jitendra Gaherwar -->
+Jitendra Gaherwar
 
 **GitHub Username:**  
-<!-- JITENDRAGAHERWAR03 -->
+ JITENDRAGAHERWAR03
 
 **Team Name:**  
-<!-- B2C -->
+ B2C
 
 **College/University:**  
-<!-- PRIDARSHANI COLLEGE OF ENGEERING NAGPUR  -->
+ PRIDARSHANI COLLEGE OF ENGEERING NAGPUR
 
 ---
 
 ## Project Details
 
 **Project Title:**  
-<!-- Weather Data Application -->
+ Weather Data Application
 
 **Project Description:**  
-<!-- Python-based weather application using OpenWeatherMap API for real-time weather tracking, CSV data storage, and temperature visualization.-->
+ Python-based weather application using OpenWeatherMap API for real-time weather tracking, CSV data storage, and temperature visualization.
 
 **Tech Stack Used:**  
-<!--Python
+-Python
 OpenWeatherMap API
 Requests
 CSV
-Matplotlib -->
+Matplotlib 
 
 **GitHub Repository Link:**  
-<!-- (https://github.com/JITENDRAGAHERWAR03/Weather-Data-Application) -->
+(https://github.com/JITENDRAGAHERWAR03/Weather-Data-Application)
 
 **Live Demo Link:**  
 <!-- Add deployed link if available -->
