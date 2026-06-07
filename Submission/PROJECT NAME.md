@@ -2,39 +2,29 @@
 
 ## Participant Details
 
-**Full Name:**  
-<!-- Write your full name -->
+**Full Name:**  Tiya Garg
 
-**GitHub Username:**  
-<!-- Write your GitHub username -->
+**GitHub Username:**  3iyam8ings
 
-**Team Name:**  
-<!-- Write your team name -->
+**Team Name:**  GOPANDAZ
 
-**College/University:**  
-<!-- Write your college/university name -->
+**College/University:**  DIT University
 
 ---
 
 ## Project Details
 
-**Project Title:**  
-<!-- Write your project/idea title -->
+**Project Title:**  Personal Portfolio Website
 
-**Project Description:**  
-<!-- Explain what your project does, what problem it solves, and why it matters -->
+**Project Description:**  I've created this website using web technologies HTML, CSS , JAVASCRIPT including animations while scrolling and used different vfx.
 
-**Tech Stack Used:**  
-<!-- Example: Next.js, Node.js, MongoDB, Supabase, Tailwind CSS, Python, etc. -->
+**Tech Stack Used:**  HTML, CSS, JavaScript, React.js (if used), Data Structures & Algorithms.
 
-**GitHub Repository Link:**  
-<!-- Add your public project repository link -->
+**GitHub Repository Link:**  https://github.com/3iyam8ings/portfolio-website
 
-**Live Demo Link:**  
-<!-- Add deployed link if available -->
+**Live Demo Link:**  https://tiya-portfolio.netlify.app/
 
-**Presentation / Demo Video Link:**  
-<!-- Optional but recommended -->
+**Presentation / Demo Video Link:**  https://drive.google.com/file/d/1AMB-tceoxnKkmKiJLJduIhvUL5l7pWUa/view?usp=sharing
 
 ---
 
