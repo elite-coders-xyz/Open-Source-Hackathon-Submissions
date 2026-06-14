@@ -81,3 +81,15 @@ Before submitting, please support Memori Labs:
 - Social links: https://linktr.ee/memorilabs
 
 Memori Labs’ official site links to their X, LinkedIn, GitHub, YouTube, and Discord socials. Their student ambassador page also highlights their focus on student builders and campus communities.
+
+
+## Installation
+
+1. Clone the repository
+git clone https://github.com/khushiattri8161/Student-Manager-App-
+
+2. Navigate to the project folder
+
+3. Run the application
+python main.py
+
