@@ -1,7 +1,7 @@
 # ByteTrace — Interactive Live Network Protocol Visualizer
 
 **Participant Name:** Nitin Dwivedi  
-**Team Name:** Nitin Dwivedi  
+**Team Name:** Samurai 
 **GitHub Repository:** https://github.com/Nitin4381/ByteTrace  
 **Demo Video:** https://github.com/Nitin4381/ByteTrace/raw/main/demo.mp4  
 
